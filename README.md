@@ -9,4 +9,5 @@ This github repo was made to share your revision sheets.
 # Rules
 - Preferably have your file in markdown format
 - If a revision sheet not too different from yours exists, consider contributing to the existing one rather than making your own.
+- Of course place everything in the right folder
 - Commit messages don't have to be very detailed, but still make it clear what you did.
