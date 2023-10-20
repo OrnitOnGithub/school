@@ -95,7 +95,7 @@ t = temps                       (s)
 w = v/r
 v = w*r
 
-αc = v²/r
+ac = v²/r
 fc = m * v²/r
 
 α = w/t
@@ -103,8 +103,9 @@ fc = m * v²/r
 0 = ½αt² + wi*t
 w = αt + wi
 -----------------------------------
-r = rayon                  (m)
-v = vitesse                (m/s)
-w = vitesse angulaire      (rad/s)
-α = accélération angulaire (rad/s²)
+r = rayon                    (m)
+v = vitesse                  (m/s)
+w = vitesse angulaire        (rad/s)
+α = accélération angulaire   (rad/s²)
+ac = accélération centripète (m/s²)
 ```
