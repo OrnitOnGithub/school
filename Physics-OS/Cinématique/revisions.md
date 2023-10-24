@@ -43,7 +43,7 @@ x = r * cos(a)
 y = r * sin(a)
 ```
 
-# Vitesse linéaire `<->` Vitesse angulaire
+# Vitesse linéaire <\-\> Vitesse angulaire
 ```
 w = v/r
 
