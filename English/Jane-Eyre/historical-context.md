@@ -3,7 +3,7 @@
 - Free schools:
   - Malnourrished
   - Teaching was qustionable
-  - Kids often mistreated
+  - Kids often mistreated (humiliation and physical punishment)
   - Terrible sanitary conditions ex cold, no hygiene
 
 # Condition of Kids
@@ -18,9 +18,10 @@ often considered as "devilic"
 ## Women writers
 - Used male author names to publish their books -> avoiding criticism because "oh no she a woman, the book will be bad"
 - Most were feminist writers
-- 
+- Were seen worse as men writers
+- Literary groups in which they were accepted
 
-# Society
+# Society (boohoo)
 - Separated in classes
   - Upper Class
   - Middle Class or Working Class
@@ -30,9 +31,9 @@ often considered as "devilic"
   - Based on reputation, you could do whatever you wanted if you had a good reputation (She wants a good reputation to survive in the society. Its also why The Reeds do whatever they want.)
 - Jane's mother (also a Reed) "changed class" and lost reputation because she married a poor clergyman for love and not for reputation (Thats why Mrs. Reed hates Jane - she deems her not worthy)
 
-## working conditions
+## Working conditions
 - Terrible
-- People often malnourrished, mistreated
+- People nearly often malnourrished, mistreated
 - No hygiene
 
 # Genres
@@ -49,7 +50,15 @@ often considered as "devilic"
 - *Frankenstein* by Mary Shelley
 
 ## Romantism
-- Lord Byron
 - Pathetic Fallacy (mirror the emotions of a character with the environnement)
-- Nature
+- Importance of nature
 - Sublime
+- Individualism
+
+- Lord Byron
+
+# Bronte familly
+## Sisters
+- All 3 sisters went to a school which was exactly like Lowood
+- Charlotte's sisters died to tuberculosis, leaving Charlotte alone, before leaving school
+- Her brother died of alcoholism and drug addiction, he was a painter
