@@ -112,5 +112,3 @@
 	- Héros national et leader militaire
 	- Dirige la guerre d'indépendance Turque, fonde les bases de la Turquie moderne
 	- 1923 - Proclame l'indépendance turque et devient son premier président
-
-
