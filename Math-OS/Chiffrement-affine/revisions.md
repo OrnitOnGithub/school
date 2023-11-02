@@ -1,19 +1,30 @@
 # Chiffrement affine
 
-# Congruences
+## Congruences
 
+Voici un script Python (qui marche sur les calculatrices de l'école) qui peut résourde un problème comme `6x ≡ 5 [26]`
+```python
+# Warning! This program assumes 0 < b < c
+# Convenient I know.
+print("ax ≡ b [c]")
+
+a = int(input("Enter the value of a: "))
+b = int(input("Enter the value of b: "))
+c = int(input("Enter the value of c: "))
+
+x = 0
+while True:
+    if (a * x) % c == b:
+        break
+    x += 1
+
+print(f"The solution for {a}x ≡ {b} [{c}] is: {x}")
+print(f"a ≡ {x} [{c}]")
 ```
-Si on a par exemple
-6a ≡ 5 [26]
-
-on cherche x tel que
-6x ≡ 1 [26]
-
-```
-# Exemple de résolution
+## Exemple de résolution
 (pas du tout celui de la prof)
 
-## Données
+### Données
 ```
 A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
 0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
@@ -24,7 +35,7 @@ Message = SEPGVB
 E = E
 J = N (J remplacé par N)
 ```
-
+### Résolution
 ```
 soit f(x) = ax + b    avec a,b appartiennent à [0;15]
 soit "=" un remplacement pour le signe congru
