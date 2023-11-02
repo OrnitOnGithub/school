@@ -1,5 +1,9 @@
 # Share your revision sheets and notes
-This github repo was made to share your revision sheets. 
+This github repo was made to share your revision sheets.
+
+Here you can find revision sheets and notes from all subjects.
+
+Sometimes it may be worth checking out [the contributions branch](https://github.com/OrnitOnGithub/school/tree/contributions) to find more information. The `master` branch is kind of like the official branch. It recieves the changes from `contributions` a bit later since they usually get modified before getting merged into `master`.
 
 # Contribute
 - Check [the rules](#Rules)
