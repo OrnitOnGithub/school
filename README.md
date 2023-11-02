@@ -15,7 +15,7 @@ This github repo was made to share your revision sheets.
 
 # How to create a PR
 
-The easiest way to do this is with visual studio code.
+You can also do this more lazily with visual studio code's build-in git stuff.
 
 - Fork the repository. This will create a copy of it on your own github account.
 - Inside Visual Studio Code (The easiest way to do this) open a terminal and run `git clone url-of-your-fork`, for example `git clone https://github.com/ornitongithub/my-fork`
@@ -25,5 +25,5 @@ The easiest way to do this is with visual studio code.
 - Add them all either with `git add .` or add specific ones with `git add path-to-file`
 - Create a commit message with `git commit -m "Here's what I did in one simple sentence"`
 - Add all the modifications to your online repository with `git push origin my-branch-name`
-- Now on github, go to your fork repository and click "New Pull Request" and choose the branch `master` as the branch to push to.
+- Now on github, go to your fork repository and click "New Pull Request" and choose the branch `contributions` as the branch to push to.
 - After this I will accept your PR.
