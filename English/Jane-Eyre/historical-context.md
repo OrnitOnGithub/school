@@ -1,14 +1,17 @@
-# education in the Elizabethan era (or whatever shes called)
-free schools and premium teachers
-free schools:
-  - malnourrished
-  - teaching was qustionable
-  - kids often mistreated
-  - terrible sanitary conditions ex cold, no hygiene
-  - 
-# kids
-treated as objhects you could shaped, thats why they were supposed to be treated miserably to shape them like "modest people"
+# Education in the Victorian era
+- Free schools and premium teachers
+- Free schools:
+  - Malnourrished
+  - Teaching was qustionable
+  - Kids often mistreated
+  - Terrible sanitary conditions ex cold, no hygiene
+
+# Condition of Kids
+- Treated as objhects you could shaped, thats why they were supposed to be treated miserably to shape them like "modest people"
 often considered as "devilic"
+
+# Condition of Wowen
+-  
 
 # society (classes bullshit)
 separated in classes
@@ -18,11 +21,25 @@ based on reputation, you could do whatever the fuck you wanted if you had a good
 janes mother "changed cass" and lost reputation because
 
 ## working conditions
-terrible
-people often malnourrished, mistreated
-no hygiene
+- Terrible
+- People often malnourrished, mistreated
+- No hygiene
 
-# genres
-## gothic
-## romantic
-## idk what else
+# Genres
+## Gothic
+- Dark
+- Terror - no gore no horror
+- Supernatural elements
+- Faraway country
+- Female victims
+- Medieval inspiration
+- Sound 
+
+- *Dracula* by
+- *Frankenstein* by Mary Shelley
+
+## Romantism
+- Lord Byron
+- Pathetic Fallacy (mirror the emotions of a character with the environnement)
+- Nature
+- Sublime
