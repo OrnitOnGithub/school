@@ -29,3 +29,26 @@ Treaty of versailles imposed on Germany.
 
 There is discontent almost everywhere
 	- IDK italy is fashist or smth
+
+Questions
+
+1. What is the main idea of this document? ![image](https://i.pinimg.com/736x/0e/f9/30/0ef930cad2cb1c958356881d6c4c85d4.jpg)
+   It is to criticise the unjust peace treaties written by the winners of the first world war, who were supposed to enforce peace under the name of the league of nations
+   <br>
+2. What do we call “self-determination of people”?
+   
+3. to which extent was this concept applied after ww1?
+   
+4. to which extent can we say that this concept was indeed not fully applied ww1?
+   
+<br>
+
+![image](https://upload.wikimedia.org/wikipedia/commons/9/9e/League_of_Nations_Anachronous_Map.png)
+
+1. Comment the above document, identifying its main issues?
+   
+
+2. To which extent is the League of Nations a rupture in the International Relations?
+
+
+3. Make a research and try to identify the main differences and common points between the League of Nations and the United Nation.
