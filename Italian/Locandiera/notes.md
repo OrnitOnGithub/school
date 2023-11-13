@@ -132,6 +132,7 @@ My Italian spelling might contain quite a few mistakes
       - (let porta tanti piatti)
     - Mirandolina è ovunque (omnipresente)
 
-## Scena 4
-
-- 
+## Scena 5 & 6
+- Il Marchese è rimasto da solo
+  - Conte partito con le commediante
+- Il Marchese va a trovare il Cavaliere e Mirandolina
