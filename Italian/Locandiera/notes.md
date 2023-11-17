@@ -136,3 +136,18 @@ My Italian spelling might contain quite a few mistakes
 - Il Marchese è rimasto da solo
   - Conte partito con le commediante
 - Il Marchese va a trovare il Cavaliere e Mirandolina
+
+## Scena 10
+
+- Conte scropre la vera identita delle commedianti (non sono dame importanti)
+- Le due ottengono la protezione del Conte
+- Ortensia vuole innamorare di let il Cavaliere
+  
+## Scena 11
+- Conte dice che il cavaliere vuole parlare con ...
+
+## Scena 12
+- Il cavaliere arriva
+- Conte vuole presentarli le sue amiche
+- Cavaliere accetta di restare dopo essere convinto
+  - Conte parte e lascia cavaliere da solo

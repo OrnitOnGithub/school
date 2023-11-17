@@ -38,3 +38,19 @@
   - Mostly women. They were asking for better libing conditions
   - The revolt was so big, the tsar asks the army to shoot down the manifesters. Army refused.
     - This started the revolution.
+
+- Soviet
+  - association of workers.
+  - In every factory, a group of people would be the "soviets".
+  - The soviet is the expression of communists.
+  - Will support provisional government as long as they accept their shit
+    - Nope doesn't work
+
+- Provisional government is not tackling the problem of Land
+  - 90% of land for 1%
+
+- The Octover revolution
+  - Unlike February, this is planned.
+  - Sieze all strategical points to control city
+  - Power was taken in one day (almost)
+
