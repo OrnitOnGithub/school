@@ -54,3 +54,5 @@
   - Sieze all strategical points to control city
   - Power was taken in one day (almost)
 
+- Power over provisional government taken over by bolsheviks
+
