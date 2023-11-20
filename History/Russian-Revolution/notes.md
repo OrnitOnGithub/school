@@ -49,7 +49,7 @@
 - Provisional government is not tackling the problem of Land
   - 90% of land for 1%
 
-- The Octover revolution
+- The October revolution
   - Unlike February, this is planned.
   - Sieze all strategical points to control city
   - Power was taken in one day (almost)
