@@ -1,5 +1,6 @@
 # La Locandiera
-My Italian spelling might contain quite a few mistakes
+
+Warning: My Italian spelling might contain quite a few mistakes, spelling and gramatical
 
 ## Atto I
 
@@ -132,6 +133,89 @@ My Italian spelling might contain quite a few mistakes
       - (let porta tanti piatti)
     - Mirandolina è ovunque (omnipresente)
 
-## Scena 4
+### Scena 5 & 6
 
-- 
+- Il Marchese è rimasto da solo
+  - Conte partito con le commediante
+- Il Marchese va a trovare il Cavaliere e Mirandolina
+
+### Scena 10
+
+- Conte scropre la vera identita delle commedianti (non sono dame importanti)
+- Le due ottengono la protezione del Conte
+- Ortensia vuole innamorare di let il Cavaliere
+  
+### Scena 11
+
+- Conte dice che il cavaliere vuole parlare con ...
+
+## Scena 12
+
+- Il cavaliere arriva
+- Conte vuole presentarli le sue amiche
+- Cavaliere accetta di restare dopo essere convinto
+  - Conte parte e lascia cavaliere da solo
+
+### Scena 15
+
+- Fabirzio e Cavaliere
+- Cavaliere chiede a fabrizio il ocndo che vuole partire ddalla locanda
+  - Vuole scappare da Mirandolina
+- Fabrizio vuole che il cavaliere li dia una mancia per il suo servizio
+- Fabrizio vuole lamentarsi del Marchese e del suo amore per Mirandolina
+- il Cavaliere fa partire Fabrizio il cameriere
+
+### Scena 16
+
+- Monologo del cavaliere
+  - Pensa a mirandolina, a tutti gli uomini che amano mirandolina
+  - Pensa che deve partire per via dei suoi sentimenti per la locandiera
+  - Mirandolina gli porta il conto (sempre il suo stratagema)
+
+### Scena 17
+
+- Scena importante
+- Mirandolina finge di svenire
+- Mirandolina sviene e finge di aver perso la fiducia verso l'uomo (boh non lo so)
+  - Cavaliere is down bad fr fr
+  - Cavaliere passa dal Voi al Tu parlando a Mirandolina
+  - Il cavaliere fa prova di simpatia
+  - Il Cavaliere non vuole più partire, il Cavaliere gli dice parole d'amore
+- Teatro nel teatro
+
+## Atto 3
+
+```
+Prima scena
+Mirandolina vuole stirare la biancheria che si trova sopra il
+ tavolo e chiede a Fabrizio di fargli il piacere di portargli 
+ il ferro caldo. Fabrizio obbedisce e dopo uno scambio di 
+ battute, lascia li Mirandolina per andare a prendere il ferro.
+
+Seconda scena
+Mirandolina è alle prese con il servitore del cavaliere. 
+Questi le consegna da parte del cavaliere una boccetta d'oro 
+contenente dello spirito per guarire dagli svenimenti. 
+Mirandolina con malizia, lo ringrazia ma rifiuta il dono.
+
+Terza scena
+Fabrizio porta il ferro a Mirandolina e le dice che il 
+cavaliere mandava ambasciate. Ella risponde che non aveva 
+accettato i suoi regali. Fabrizio chiede spiegazioni ma 
+Mirandolina non vuole rispondere quindi lo manda a prendere
+un altro ferrò caldo.
+
+Quarta scena
+Mentre Mirandolina stira, ecco venire il cavaliere che si 
+mostra un po' arrabbiato con la ragazza perché ha rifiutato la 
+boccettina. Lei spiega che quel giorno era svenuta soltanto 
+perché aveva bevuto quel vino che le aveva fatto tanto male. 
+Il cavaliere più volte nel regalarle quella boccetta, perché 
+la ammira molto e la considera diversa da tutte le altre 
+donne; ella con tenacia e furbizia continua a rifiutare il 
+dono e chiama ad alta voce Fabrizio per dirgli che il ferro 
+non era ancora abbastanza caldo.
+```
+[Fonte](https://www.scuolissima.com/2012/04/la-locandiera-atto-3.html)
+
+### Atto 4
