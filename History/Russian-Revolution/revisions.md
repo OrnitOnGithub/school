@@ -99,6 +99,7 @@ Pages 27-44 of the book.
 
 - Bolshevik coup
   - Lenin's Return (from Finland): Vladimir Lenin, aided by the Bolsheviks, returned from exile and advocated for the immediate overthrow of the Provisional Government.
+  - Country at war = undesirable
   - Seizure of Power: Bolshevik forces, led by Lenin and Trotsky, orchestrated a well-coordinated coup in Petrograd (St. Petersburg), seizing key strategic points, such as the Winter Palace, and overthrowing the Provisional Government.
   - End of Dual Power: The Bolsheviks' successful takeover marked the end of the Provisional Government and the beginning of Bolshevik rule, establishing a new socialist order in Russia.
 

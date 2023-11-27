@@ -81,3 +81,9 @@
 
 - Power over provisional government taken over by bolsheviks
 
+
+- Whites:
+  - Against communism
+  - At first kidna successful
+  - flop
+
