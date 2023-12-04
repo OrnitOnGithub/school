@@ -46,3 +46,19 @@ Fp = deltaP / deltaT
 Fp = force propulsion
 deltaP = P (quantité de mouvement) initial - final
 ```
+
+## Impulsion
+
+```
+J = F * dT
+
+J = dP
+
+F = Force d'impact / temps
+
+J = impulsion
+F = Force constante
+dT = delta T
+dP = delta P = delta quantité de mouvement
+```
+
