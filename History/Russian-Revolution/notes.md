@@ -1,5 +1,7 @@
 # Russian Revolution Notes
 
+# Russian Revolution Notes
+
 ### Quick notes
 
 - 1917
