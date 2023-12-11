@@ -74,7 +74,7 @@ L2 = (4 + (7 / 4)) / 2 = 23 / 8  et  l2 = 7 / (23 / 8)
 on va admettre que pour tout n $\in$ $\mathbb{N}, a_n \geqslant \sqrt{A}$
 
 
-$
+$$
 \begin{aligned}
 \forall n \in N, a_{n+1}-\sqrt{A} & =\frac{1}{2}\left(a_n+\frac{A}{a_n}\right)-\sqrt{A} \\
 & =\frac{1}{2}\left(\frac{a_n^2}{a_n}+\frac{A}{a_n}-\frac{2 \sqrt{A} a_n}{a_n}\right) \\
@@ -82,7 +82,7 @@ $
 & =\frac{1}{2} *\frac{\left(a_n-\sqrt{A}\right)^2}{a_n} \\
 & \leqslant \frac{\left(a_n-\sqrt{A}\right)^2}{2 \sqrt{A}}
 \end{aligned}
-$
+$$
 
 Important à se rappeler:
 
