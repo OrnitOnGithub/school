@@ -235,3 +235,20 @@ dT = delta T
 dP = delta P = delta quantité de mouvement
 ```
 
+## Système isolé masse variable
+
+$$
+F_{prop} = m_{1}\frac{dv_{1}}{dt} = v_{rel}\frac{dm_{2}}{dt}
+$$
+
+<br>
+
+$F_{prop}$​ : Force de propulsion de la fusée.
+
+$m_{1}$​ : Masse de la fusée (ou la masse du carburant consommé).
+
+$dv_{1}/dt$ : C'est la variation de la vitesse (v1​) de la fusée par rapport au temps (t). Cela représente l'accélération de la fusée.
+
+$v_{rel}$​ : Vitesse d'éjection des gaz (vitesse relative des gaz par rapport à la fusée).
+
+$dm_{2}/dt$ : C'est la variation de la masse du carburant (m2m2​) par rapport au temps (tt). Cela représente le débit de carburant, c'est-à-dire la masse de carburant consommée par unité de temps.
