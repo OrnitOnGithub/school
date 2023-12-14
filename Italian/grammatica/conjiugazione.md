@@ -6,11 +6,11 @@
 ### Condizionale Passato / Composto
 
 - **Io** avrei mangiato
-- **To** avresti mangiato
+- **Tu** avresti mangiato
 - **Voi** avreste mangiato
 
 ### Condizionale Presente / Semplice
 
-- **Io** penserei
-- **Tu** penseresti
-- **Voi** pensereste
+- **Io** mangerei
+- **Tu** mangeresti
+- **Voi** mangereste
