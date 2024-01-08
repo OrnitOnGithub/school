@@ -1,0 +1,128 @@
+import tkinter as tk
+import time 
+import math
+
+x = 0
+cps = 0
+cursor = 15
+grandma = 100
+farm = 1100
+cursor_cps = 0
+grandma_cps = 0
+farm_cps = 0
+
+def add_one():
+   global x
+   global rounded_x
+   x += 1
+   rounded_x = math.ceil(x * 10) / 10
+   hello.config(text=rounded_x)
+
+def remove_cursor_x():
+  global x
+  global cursor
+  global rounded_cursor
+  global cursor_cps
+  if x >= cursor:
+     x -= cursor
+     cursor_cps = cursor_cps + 0.1
+     cursor_cps = math.ceil(cursor_cps * 10) / 10
+     cursor = cursor * 1.05
+     rounded_cursor = math.ceil(cursor * 10) / 10
+     x = math.ceil(x * 10) / 10
+     hello.config(text=x)
+
+def remove_farm_x():
+  global x
+  global farm
+  global rounded_farm
+  global farm_cps
+  if x >= farm:
+     x -= farm
+     farm_cps = farm_cps + 8
+     farm_cps = math.ceil(farm_cps * 10) / 10
+     farm = farm * 1.1
+     rounded_farm = math.ceil(farm * 10) / 10
+     x = math.ceil(x * 10) / 10
+     hello.config(text=x)
+
+def add_cps():
+  global rounded_x
+  global x
+  global cursor_cps
+  global grandma_cps
+  global farm_cps
+  x += cursor_cps
+  x += grandma_cps
+  x += farm_cps
+  x = math.ceil(x * 10) / 10
+  rounded_x = math.ceil(x * 10) / 10
+  hello.config(text=rounded_x)
+  window.after(1000, add_cps)
+
+def remove_grandma_x():
+  global x
+  global grandma
+  global grandma_cps
+  if x >= grandma:
+    x -= grandma
+    grandma_cps = grandma_cps + 1
+    grandma_cps = math.ceil(grandma_cps * 10) / 10
+    grandma = grandma * 1.15
+    rounded_grandma = math.ceil(grandma * 10) / 10
+    x = math.ceil(x * 10) / 10
+    hello.config(text=x)
+  button3.config(text="buy grandma ({})".format(rounded_grandma))
+
+def update_buttons():
+  rounded_cursor = math.ceil(cursor * 10) / 10
+  button2.config(text="buy cursor ({})".format(rounded_cursor))
+  rounded_grandma = math.ceil(grandma * 10) / 10
+  button3.config(text="buy grandma ({})".format(rounded_grandma))
+  rounded_farm = math.ceil(farm * 10) / 10
+  button4.config(text="buy farm ({})".format(rounded_farm))
+  hello.config(text=x)
+  window.after(1, update_buttons)
+
+window = tk.Tk()
+window.title("clicker")
+window.geometry("400x400")
+
+hello = tk.Label(text="({}) cookies".format(x))
+hello.pack()
+
+button = tk.Button(text="")
+button.config(command=add_one, relief="raised", width=6, height=4)
+button.pack()
+button.place(x=155, y=30)
+button2 = tk.Button(text="buy cursor ({})".format(cursor), command=remove_cursor_x, width=20)
+button2.pack()
+button2.place(x=100, y=350)
+button3 = tk.Button(text="buy grandma ({})".format(grandma), command=remove_grandma_x, width=20)
+button3.pack()
+button3.place(x=100, y=300)
+button4 = tk.Button(text="buy farm ({})".format(farm), command=remove_farm_x, width=20)
+button4.pack()
+button4.place(x=100, y=250)
+
+add_cps()
+update_buttons()
+
+tk.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

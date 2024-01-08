@@ -1,11 +1,31 @@
-# Test 23 November
+# World War One
 
-# Champ de revision
 
-End of war world one up to beginning of russian revolution.
-Pages 27-44 of the book.
 
-# Pages 27-44
+Interwar period
+
+- Destruction of old world of empires
+	- Ottoman, Prussia and German empire destroyed
+	- Czechoslovakia created (lezgo)
+	- Turkey created as a state to replace Ottoman
+
+	- Germany split in 2
+
+- Creation of the League of Nations
+	- Less effective than UN
+	- Kinda like a state,
+		- Division of power
+	- Winners of ww1 have victor power (5 permanent members)
+	- Permanent international court of justice
+		- Was supposed to be international laws thing
+	- Other bodies that will help with the construction yade yade ya
+	- USA never joined even if they were supposed to be in
+		- Foreign policy is always decided by executive power (president)
+		however agreement is needed from senate. Senate wasn't bing chilling.
+
+
+
+# Russian Revolutions
 
 ## Post-war
 
@@ -94,7 +114,7 @@ Pages 27-44 of the book.
 - Provisional Government: Tempory administration between liberal and moderate socialist factions
 - Petrograd Soviet: Representing workers, soldiers and revolutionary groups. Had significant influence, often challenging Provisional Government's decisions.
   - The existence of dual power, with competing authorities, resulted in a complex governance structure, leading to conflicting policies and decision-making processes.
-
+  
 ### October 1917 (25th)
 
 - Bolshevik coup
