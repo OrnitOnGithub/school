@@ -1,7 +1,8 @@
 Victor Hugo
 Conserve les alexendrins
     - Mais coupures, enjambements, etc
-Non-respect de:
+    - pas versification classique
+Non-respect de unités:
     - lieu
         - Acte 1: chambre
         - Acte 2: derrière la palais
@@ -29,12 +30,12 @@ Mélange des genres
             - comique de **geste**
                 - Toutes les didascalies
                     - Jeu autour de l'armoire
-        - Scène d'exposition qui n'expose pas trop
-            - Aucune information sur Hernani
-            - On ne sait pas qui est Don Carlos (qui en plus arrive déguisé)
-            - Dona Sol est fiancée au vieux duc de blablablia
-            - Les informations sont lacunaires. (il y a un manque)
-            - Les imformations sont fragmentées et arrivent au fil du récit
-            - Le conflit qui est en grande partie politique n'apparait pas du tout ?????
-            - On s'attend à une comédie alors qu'on se tape une tragédie
-                - La scène d'exposition est censée orienter les attentes du lecteur et introduire le genre
+Scène d'exposition qui n'expose pas trop
+    - Aucune information sur Hernani
+    - On ne sait pas qui est Don Carlos (qui en plus arrive déguisé)
+    - Dona Sol est fiancée au vieux duc de blablablia
+    - Les informations sont lacunaires. (il y a un manque)
+    - Les imformations sont fragmentées et arrivent au fil du récit
+    - Le conflit qui est en grande partie politique n'apparait pas du tout ?????
+    - On s'attend à une comédie alors qu'on se tape une tragédie
+        - La scène d'exposition est censée orienter les attentes du lecteur et introduire le genre
