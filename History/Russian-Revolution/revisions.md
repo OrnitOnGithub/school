@@ -94,11 +94,12 @@ Pages 27-44 of the book.
 - Provisional Government: Tempory administration between liberal and moderate socialist factions
 - Petrograd Soviet: Representing workers, soldiers and revolutionary groups. Had significant influence, often challenging Provisional Government's decisions.
   - The existence of dual power, with competing authorities, resulted in a complex governance structure, leading to conflicting policies and decision-making processes.
-  
+
 ### October 1917 (25th)
 
 - Bolshevik coup
   - Lenin's Return (from Finland): Vladimir Lenin, aided by the Bolsheviks, returned from exile and advocated for the immediate overthrow of the Provisional Government.
+  - Country at war = undesirable
   - Seizure of Power: Bolshevik forces, led by Lenin and Trotsky, orchestrated a well-coordinated coup in Petrograd (St. Petersburg), seizing key strategic points, such as the Winter Palace, and overthrowing the Provisional Government.
   - End of Dual Power: The Bolsheviks' successful takeover marked the end of the Provisional Government and the beginning of Bolshevik rule, establishing a new socialist order in Russia.
 

@@ -1,5 +1,7 @@
 # Russian Revolution Notes
 
+# Russian Revolution Notes
+
 ### Quick notes
 
 - 1917
@@ -80,4 +82,10 @@
   - Power was taken in one day (almost)
 
 - Power over provisional government taken over by bolsheviks
+
+
+- Whites:
+  - Against communism
+  - At first kidna successful
+  - flop
 
