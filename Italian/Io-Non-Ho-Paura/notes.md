@@ -7,3 +7,33 @@
 - Teschio rimane sulla sua posizione e da al Melichetti del pezzo di merda.
 - Dice a Barbara questa me la paghi
 - Trovano una collina in forma di panettone ??
+- Fanno una gara per arrivare alla fine della colline
+  - ref page 6
+  - Teschio vuole umiliare Barbara di nuovo
+  - Analessi
+    - On revient où on était avant
+    - Le flashback finit
+- Impalano una gallina???
+- Trovano una casa abbandonata.
+  - è un microbioma molto strano
+  - Non si sentivano i grilli
+    - Invece il cinguettio degli ucelli
+- Arrivano (è finita la gara)
+  - Teschio
+  - J'écoutais pas
+  - Barbara
+  - Le narrateur je crois
+- Chissà perche non riescono a mettersi d'accordo
+- Teschio dice che il posto è suo (l'ha trovato lui)
+- Teschio decide Barbara
+  - Barbara dice "non è giusto"
+  - Perche il teschio vuole venicarsi
+- Si scopre che michele raccona la sua storia 22 anni dopo (a 31 anni adesso)
+- Barbara è delusa di non essere sostenuta dagli amigi
+  - Teschio vuole che Barbara mostri la fessa
+- Teschio è veramente un cazzone
+- Narratore (Michele) "dice voglio farla io la penitenza"
+- Tutti votano Michele, aparte Remo
+- 4 vs 2
+  - Vince Michele
+- 

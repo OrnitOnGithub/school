@@ -32,10 +32,10 @@ def exp_rapidité(x,n):
     end = time()
     return end - start
 
-a, n = 3, 12000
+
+a, n = 3, 10000
 y, x = [exprapide_rapidité(a,x) for x in range(n)], [x for x in range(n)]
 y2, x2 = [exp_rapidité(a,x) for x in range(n)], [x for x in range(n)]
-
 
 plt.plot(x,y, label="exp rapide")
 plt.plot(x2,y2, label="exp normale")
