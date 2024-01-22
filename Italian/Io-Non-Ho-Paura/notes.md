@@ -1,6 +1,6 @@
 # Capitolo 1
 
-[...]
+[...] j'écoutais pas
 - Barbara dice al Melichetti che è il Teschio che dice le robe cattive su di lui
 - Melichetti dice al Teschio che non deve mentire, specialmente davanti ai piu giovani
 - I bambini bevono l'acqua e partono
@@ -36,4 +36,34 @@
 - Tutti votano Michele, aparte Remo
 - 4 vs 2
   - Vince Michele
-- 
+- Michele deve attrevarsare la casa in rovina, e uscire dalla finestra coll' albero
+  - Super pericoloso
+- Entra nella casa
+  - Pieno di merda di piccione
+  - Deve passare per una porta dipinta di rossa
+  - Cammina "come una ballerina" (paragone)
+  - Manca il pavimento nella prossima stanza
+    - C'era un "ponte" (c'était une poutre)
+  - Parla del futuro (10 anni dopo)
+    - quando è andato a sciare in condizioni pericolosi
+  - Distribuisce il peso per passare per ul "ponte"
+  - È riuscito a passare
+  - Vede resti di un fuoco e resti di pacchi di pasta.
+    - Qualcuno vive qui
+  - Adesso deve scendere dall' albero.
+    - Salta sul ramo che però è secco.
+      - Cade
+  - Apre gli occhi, vede l'albero
+  - È caduto su un materasso (plot armor). Questo materasso è su una tettoia ricoperta di fogli
+- Pensa che sotto la tettoia c'è tesoro (immaginatzione o qualcosa non lo so)
+  - Invece trova odore di merda
+  - Trova un buco...?
+  - Trova una persona
+  - Li tira un sasso
+    - sembra morto
+  - Li tira un altro sasso
+    - sembra muoversi
+  - Rimette tuto come era, lo chiamano gli amici
+  - Non vuole dire niente a nessuno
+    - "le cose sono a chi le trova per primo" \- Teschio
+  - Riflette su quello che è sucesso.
