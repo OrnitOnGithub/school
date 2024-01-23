@@ -8,5 +8,20 @@
 - enter her hair
 - hairs repel eachother
 
-## Coulomb's law
+```
+E = Fe / q
 
+F = k(q * Q) / r^2
+
+E = k Q / r^2
+
+E = mg / q
+
+E = Fe * q
+
+
+E = mg / Q
+Q = charge élémentaire
+
+Fe = EQ
+```

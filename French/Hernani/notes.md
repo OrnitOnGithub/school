@@ -101,3 +101,14 @@ Scène d'exposition qui n'expose pas trop
 - Hyperboles
 - Méliorativité
 
+## Héros romantique
+- Homme d'action
+- Reflects author's feelings
+- Seul face au monde
+- Affronte le monde et se brise contre les lois
+- Beaucoup d'émotions
+- Extrême sensibilité
+- Son action est destinée à la mort (par suicide) fatalité / malheur / echec (en passant)
+- Champ lexical élégiaque
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FCHERRYSARCHIVE%2Fstatus%2F1588963968131149824&psig=AOvVaw0CLkbmSqfj9R5ulAWci8TX&ust=1706009757235000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCID6vN_z8IMDFQAAAAAdAAAAABAE)
