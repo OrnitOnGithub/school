@@ -1,15 +1,26 @@
-### Congiuntivo Imperfetto
+## Congiuntivo Imperfetto
+
+### Esempi
+
 - Che **io** mangiassi
 - Che **tu** mangiassi
 - Che **voi** mangiaste
 
-### Condizionale Passato / Composto
+- **Io** parlassi
+- **Lui** parlasse
+- **Voi** parlaste
+
+## Condizionale Passato / Composto
+
+### Esempi
 
 - **Io** avrei mangiato
 - **Tu** avresti mangiato
 - **Voi** avreste mangiato
 
-### Condizionale Presente / Semplice
+## Condizionale Presente / Semplice
+
+### Esempi
 
 - **Io** mangerei
 - **Tu** mangeresti
