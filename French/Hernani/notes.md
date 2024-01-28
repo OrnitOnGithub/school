@@ -112,3 +112,9 @@ Scène d'exposition qui n'expose pas trop
 - Champ lexical élégiaque
 
 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FCHERRYSARCHIVE%2Fstatus%2F1588963968131149824&psig=AOvVaw0CLkbmSqfj9R5ulAWci8TX&ust=1706009757235000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCID6vN_z8IMDFQAAAAAdAAAAABAE)
+
+# Didascalies Acte 2
+- Toute une ville plutôt que une sale
+- Espace ouvert sous-divisé en sous-espaces distincts
+  - actions séparées et simultanées
+  - Donne un plus grand dynamisme
