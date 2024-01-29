@@ -1,0 +1,152 @@
+# Capitolo 1
+
+[...] j'écoutais pas
+- I bimbi partono all' avventura, arrivano dal signor Melichetti
+
+[...] j'écoutais pas
+- Barbara dice al Melichetti che è il Teschio che dice le robe cattive su di lui
+- Melichetti dice al Teschio che non deve mentire, specialmente davanti ai piu giovani
+- I bambini bevono l'acqua e partono
+- Teschio rimane sulla sua posizione e da al Melichetti del pezzo di merda.
+- Dice a Barbara questa me la paghi
+- Trovano una collina in forma di panettone ??
+- Fanno una gara per arrivare alla fine della colline
+  - ref page 6
+  - Teschio vuole umiliare Barbara di nuovo
+  - Analessi
+    - On revient où on était avant
+    - Le flashback finit
+- Impalano una gallina???
+- Trovano una casa abbandonata.
+  - è un microbioma molto strano
+  - Non si sentivano i grilli
+    - Invece il cinguettio degli ucelli
+- Arrivano (è finita la gara)
+  - Teschio
+  - J'écoutais pas
+  - Barbara
+  - Le narrateur je crois
+- Chissà perche non riescono a mettersi d'accordo
+- Teschio dice che il posto è suo (l'ha trovato lui)
+- Teschio decide Barbara
+  - Barbara dice "non è giusto"
+  - Perche il teschio vuole venicarsi
+- Si scopre che michele raccona la sua storia 22 anni dopo (a 31 anni adesso)
+- Barbara è delusa di non essere sostenuta dagli amigi
+  - Teschio vuole che Barbara mostri la fessa
+- Teschio è veramente un cazzone
+- Narratore (Michele) "dice voglio farla io la penitenza"
+- Tutti votano Michele, aparte Remo
+- 4 vs 2
+  - Vince Michele
+- Michele deve attrevarsare la casa in rovina, e uscire dalla finestra coll' albero
+  - Super pericoloso
+- Entra nella casa
+  - Pieno di merda di piccione
+  - Deve passare per una porta dipinta di rossa
+  - Cammina "come una ballerina" (paragone)
+  - Manca il pavimento nella prossima stanza
+    - C'era un "ponte" (c'était une poutre)
+  - Parla del futuro (10 anni dopo)
+    - quando è andato a sciare in condizioni pericolosi
+  - Distribuisce il peso per passare per ul "ponte"
+  - È riuscito a passare
+  - Vede resti di un fuoco e resti di pacchi di pasta.
+    - Qualcuno vive qui
+  - Adesso deve scendere dall' albero.
+    - Salta sul ramo che però è secco.
+      - Cade
+  - Apre gli occhi, vede l'albero
+  - È caduto su un materasso (plot armor). Questo materasso è su una tettoia ricoperta di fogli
+- Pensa che sotto la tettoia c'è tesoro (immaginatzione o qualcosa non lo so)
+  - Invece trova odore di merda
+  - Trova un buco...?
+  - Trova una persona
+  - Li tira un sasso
+    - sembra morto
+  - Li tira un altro sasso
+    - sembra muoversi
+  - Rimette tuto come era, lo chiamano gli amici
+  - Non vuole dire niente a nessuno
+    - "le cose sono a chi le trova per primo" \- Teschio
+  - Riflette su quello che è sucesso.
+
+- Descrizione paese Acquatraverse
+- Arrivo del padre
+  - I bimbi ritornano dalla loro espedizione, vedono il padre in casa
+  - Lui fa il cammionista (dunque è molto assente)
+  - La maggior parte del tempo sta sulla strada, al Nord
+  - Aveva promesso a Michele di portarlo al Nord
+    - Dice che al Nord sono ricchi, e al Nord, poveri
+  - Mamma diceva che un giorno avrebbero soldi grazie al suo lavoro
+  - Ripetizione Nord -> differenza nord/sud 
+  - è un uomo picolo, magro, di carattere nervoso. Capelli neri, mette la brillantina (gel) aveva la barba ruvida (rugueuse) e bianca sul mento.
+- Dicono che anno rotto gli occhiali
+- Si aspettano il peggio, pero il papa dal Nord a portato un regalo dall' nord: degli occhiali
+- Dialogo Michele / padre
+  - Padre dice: "Fammi sentire il muscolo", e parla del bicipite
+  - poi chiede "Le fai le flessioni?"
+  - Fanno una sfida figlio/padre (braccio di ferro)
+  - Chiede al figlio virilità, "rimettiamo gli occhiali dell' epoca"
+  - Gli dice "Dai, che c'ai la ricotta al posto dei muscoli, sei debole... sei una femmina, Michele!"
+    - Valori dell' epoca, l'uomo deve avere forza seno è una femmina, stereotipi maschilisti
+  - Ricevono il regalo del padre
+    - Una gondola, sopra la tivu, che non possono toccare, è un regalo noioso
+- Michele deve andare a prendere l'acqua
+  - Michele ci'a le responsabilità
+  - Michele però si lammenta
+    - Padre dice come facevano i soldati per chi deve fare la missione mortale
+      - Tira fuori dalla tasca una scattola di fiammiferi
+      - Si prendono tre fiammiferi, uno per Maria, uno per Michele, uno per padre
+      - A uno si toglie la parte rossa
+      - Gli stringe nel pugno, chi prende quello senza testa, va prendere l'acqua
+    - Alla fine tocca al padre
+- Padre esce, torna, mangiano
+- È stato un momento felice in famiglie, se ci fosse stata solo la madre, sarebbero stati sgridati, sarebbe un momento meno felice. Il padre prende la cosa senza che sia un momento grave o serio. Sicuramente non vuoleva sgridare i bimbi dopo essere tornato. In questa famiglia c'è amore.
+- I figli vedono questo padre molto in alto, è idolizzato. È assente per il lavoro ma è molto afettuoso.
+- I sogni brutti: (immaginazione bambino)
+  - CONTESTO:
+    - Lazzaro è un uomo che non può camminare, pero Jesù lo guarisce, durante la sua fase di miracoli. Gli dice "Alzati, e cammina."
+    - Lazzaro (un altro) è una persona che è morta, e Jesù gli dice di svegliarsi, e l'uomo rissuscita.
+  - Nel suo sognio, Jesù assomoglia a Severino (jsp si j'ai bien entendu le nom), che è una persona che guida l'autocisterna
+  - Jesù diceva a Lazzaro di alzarsi
+  - Jesu inizia a scuoterlo
+  - Si sveglia
+  - [...] J'écoutais pas
+- Si insiste sul calore nella stanza
+- Dorme colla sorella (sono poveri)
+- Descrizione del paesaggio
+  - "Forse ero l'unoci sveglio nell' Acqua traverse"
+  - Ripensa al bambino nel buco.
+  - Si immagina gli insetti che gli camminano adosso.
+  - Gli occhi sembravano due uova sode
+  - Trovare quel bambino era un' esperienza traumatizzante, che non sa gestire, dunque a sogni brutti
+  - "Io un morto non l'ho mai visto, solo la nonna Giovanna"
+  - E se invece il bambino era vivo? Se l'avesse preso un Orco? (immaginazione)
+- Deve andare a prendere l'acqua per la sorella, ma ha paura
+- Pensa a tutti i morti (Nonna, Bambino, gallina impalata)
+  - Paura (thema importante, "Io non ho *paura*")
+- Il padre dice che sarebbe restato un pò 
+
+
+CHIAVI DI LETTURA
+- Paura
+- Mostri
+- Immaginazione
+- Animali
+- J'écoutais pas jsp
+
+# Capitolo 2
+
+- Si sveglia
+  - Mamma Papa dormono ancora
+  - Fa colazione
+- Michele vuole "fare un giro" (va vedere il bambino)
+  - Sorella lo vede, vuole venire, lui le dice di no e di dire che è partito fare un giro se chiedono i genitori.
+- Esce colla bicicletta
+- Un giorno di fuoco, fa caldissimo (metafora per il clima)
+- Iniziava ad arrostire la pianura
+- Pedalava e cercava di arrivare presto
+  - (Pedalavo nella polvere e gli insietti) (presenza animali)
+- Ogni tanto si sollevavano le gazze
+  - Vede ancora una lepre
