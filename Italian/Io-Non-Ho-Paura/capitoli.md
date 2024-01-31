@@ -70,7 +70,6 @@
   - Non vuole dire niente a nessuno
     - "le cose sono a chi le trova per primo" \- Teschio
   - Riflette su quello che è sucesso.
-
 - Descrizione paese Acquatraverse
 - Arrivo del padre
   - I bimbi ritornano dalla loro espedizione, vedono il padre in casa
@@ -129,7 +128,7 @@
 - Il padre dice che sarebbe restato un pò 
 
 
-CHIAVI DI LETTURA
+## CHIAVI DI LETTURA
 - Paura
 - Mostri
 - Immaginazione
@@ -150,3 +149,4 @@ CHIAVI DI LETTURA
   - (Pedalavo nella polvere e gli insietti) (presenza animali)
 - Ogni tanto si sollevavano le gazze
   - Vede ancora una lepre
+- Michele si immagina di trovare delle streghe o un orco, e pensa di essere in rischio di essere buttato anche lui in un buco.
