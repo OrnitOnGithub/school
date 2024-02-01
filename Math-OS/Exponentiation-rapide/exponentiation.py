@@ -33,11 +33,20 @@ def exp_rapidité(x,n):
     return end - start
 
 
-a, n = 3, 100
+a, n = 5, 100 # a^n
 y, y2 = [exprapide_rapidité(a,x) for x in range(n)], [exp_rapidité(a,x) for x in range(n)]
 
+diff = [(y2[x] - y[x]) for x in range(len(y))]
+
+# Les graphes des vitesses des deux fonctions
 plt.plot(y, label="exp rapide")
 plt.plot(y2, label="exp normale")
-plt.ylabel("time")
+
+# Le graphe de la différence de temps entre les deux
+plt.plot(diff, label="différence")
+
+plt.ylabel("temps")
 plt.xlabel("n")
 plt.show()
+
+
