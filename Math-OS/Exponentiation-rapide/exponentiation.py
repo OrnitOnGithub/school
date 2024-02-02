@@ -33,7 +33,7 @@ def exp_rapidité(x,n):
     return end - start
 
 
-a, n = 5, 100 # a^n
+a, n = 5, 10000 # a^n
 y, y2 = [exprapide_rapidité(a,x) for x in range(n)], [exp_rapidité(a,x) for x in range(n)]
 
 diff = [(y2[x] - y[x]) for x in range(len(y))]
@@ -47,6 +47,7 @@ plt.plot(diff, label="différence")
 
 plt.ylabel("temps")
 plt.xlabel("n")
+plt.legend()
 plt.show()
 
 
