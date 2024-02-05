@@ -169,3 +169,26 @@
 - Va a cercare acqua nella casa e trova una pentola, che sembra uguale a una che avevano loro a casa.
 - Michele da l'acqua al bambino
 - Immaina che il padre abbia portato la fettina al bambino sulla collina.
+- Durante la notte Michele si risveglia e mette in atto una nouva teoria
+  - p.74 -> Cominicia ad avere sospetti e dubbi sul suo padre.
+  - Pensa che il bambino è un suo fratello (forse anche gemello) che a morso il seno della madre
+  - Vuole provare a dare un senso a questa storia
+
+# Capitolo 4
+- Michele, andando a trovare il bambino, vede un auto venire (solleva un polverone rosso, una nube rossa), e incontra Felice Natale
+  - Felice Natale è il fratello del Teschio
+  - Il nome è l'opposto della sua personalità (Ironia dell' autore)
+  - Ha 20 anni
+  - Guida una Fiat 127 "color merda sciolta" (un bellissimo **paragone**)
+  - Picchiava i bimbi, era un povero diavolo, odiava vivere ad Acqua Traverse
+  - Faccia come un barracuda, denti come coccodrillo, stava come una tigre in gabbia (**paragone cogli animali**)
+  - Poi un giorno è partito
+  - Michele pensa che è lui ad avere messo il bambino nel buco.
+  - Antisocievole (Non ha amici, non ha ragazza)
+  - Sara il suo carattere che lo rende antisocievole, o è cosi perche non lo caga nessuno?
+  - **Prega a Gesù babino**
+- Michele si nasconde per non essere nei guai
+- Michele da formaggio e acqua al "fantasma" (il bambino)
+- Il bambino parla di nuovo. Urla "Gli orsetti... Gli orsetti lavatori" (les ratons laveurs)
+  - Michele non capisce cosa sono gli orsetti lavatori. Si chiede, "E cosa lavano?" (qu'est-ce qu'ils lavent (les ratons)?)
+  - Il bambino spiegha che gli orsetti rubano il cibo se resta aperta la casa.
