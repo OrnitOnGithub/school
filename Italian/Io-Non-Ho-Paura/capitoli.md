@@ -150,3 +150,22 @@
 - Ogni tanto si sollevavano le gazze
   - Vede ancora una lepre
 - Michele si immagina di trovare delle streghe o un orco, e pensa di essere in rischio di essere buttato anche lui in un buco.
+- Michele dice a Maria (sua madre) che non scendera mai dall' albero
+  - Ref à Barone Rampante
+- Maria (Madre di Michele)
+  - È molto bella
+  - 33 anni
+  - Era del Sud
+  - pagina 62
+- Quella sera non c'è la luna, dunque Michele pensa che il bambino non puo transformarsi in lupo.
+
+# Capitolo 3
+- Michele vuole dire del bambino nel buco al suo padre (cf p.56 / p.66)
+  - Non ci riesce, perche padre deve partire
+- Svegliandosi, si rende conto che tendendogli la mano, il bambino chiedeva aiuto, non era uno zombi.
+- Va a portargli l'acqua
+- p68-69 primo scambio verbale, terzo incontro
+- Il bambino nel buco dice "acqua, acqua"
+- Va a cercare acqua nella casa e trova una pentola, che sembra uguale a una che avevano loro a casa.
+- Michele da l'acqua al bambino
+- Immaina che il padre abbia portato la fettina al bambino sulla collina.
