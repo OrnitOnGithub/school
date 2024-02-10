@@ -192,3 +192,18 @@
 - Il bambino parla di nuovo. Urla "Gli orsetti... Gli orsetti lavatori" (les ratons laveurs)
   - Michele non capisce cosa sono gli orsetti lavatori. Si chiede, "E cosa lavano?" (qu'est-ce qu'ils lavent (les ratons)?)
   - Il bambino spiegha che gli orsetti rubano il cibo se resta aperta la casa.
+  - Spontaneamente, si mette a parlare degli orsetti lavatori
+  - Michele non capisce che non conoscie gli orsetti lavatori
+  - "Gli orsetti anno dito che tu non hai paura del singore [seigneur] dei vermi"
+  - "Il signore dei vermi dice "ora ti mando giu la roba seno sciendo e ti schiaccio come un verme""
+  - Si capisce che il signore dei vermi è qualcun altro che viene a darli da manigare
+- Il bambino chiede a Michele se lui è l'angelo custode, Filippo vede Michele come l'angelo custode
+- Il bambino si chiama Filippo Carducci
+- Michele vuola raccontarte di nuovo al parde (terza volta)
+- Si scopre che sono stati gli adulti a prendere il bambino alla signora alla televisione
+  - Sono stati loro a rapire il bambino della signore
+  - Minacciano di tagliare le orecchie del bambino
+
+# Capitolo 5
+- Michele trova Sergio in bagno
+- Bitchass Italian teacher

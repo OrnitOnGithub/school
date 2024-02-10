@@ -1,17 +1,17 @@
 from time import *
 from matplotlib import pyplot as plt
 
-def exprapide(x, n):
-    a = 1
+def exprapide(base, exponent):
+    resultat_final = 1
 
-    while n > 0:
-        if n % 2 == 1:
-            a *= x
+    while exponent > 0:
+        if exponent % 2 == 1:
+            resultat_final *= base
 
-        x *= x 
-        n //=2
+        base *= base
+        exponent //=2
 
-    return a
+    return resultat_final
 
 def exp(x, n):
     a = 1
