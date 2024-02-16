@@ -1,3 +1,13 @@
+Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe italien est nul
+
+- [Capitolo 1](#capitolo-1)
+  - [CHIAVI DI LETTURA](#chiavi-di-lettura)
+- [Capitolo 2](#capitolo-2)
+- [Capitolo 3](#capitolo-3)
+- [Capitolo 4](#capitolo-4)
+- [Capitolo 5](#capitolo-5)
+
+
 # Capitolo 1
 
 [...] j'écoutais pas
@@ -204,6 +214,71 @@
   - Sono stati loro a rapire il bambino della signore
   - Minacciano di tagliare le orecchie del bambino
 
-# Capitolo 5
+# Capitolo 5
 - Michele trova Sergio in bagno
-- Bitchass Italian teacher
+  - Si arrabbia colla mamma che non vuole dormire con Sergio.
+  - Dice che vuole dormire nel letto dei genitori come Maria
+    - La madre dice "perche non mi obbidisci, perche porti problemi...". Si innervosisce perché Michele non ubbidisce.
+  - Michele pensa che Sergio lo portarlo via, lasciando intuire qualcosa a sua madre...
+- Michele va al suo albero (safe space)
+- Trova Barbara che cuole fare il bagno al cane che c'ia le zecche
+  - Michele pensava che lei volesse uccidere il cane
+- Michele si sacrifica prova a togliere le zecche al cane
+  - Momento di amaicizia Michele / BArbara
+- Barbara li chiede "Ti vuoi fidanzare con me?"
+  - Michele dice no (Come on dude...)
+- Michele si mette a parlare delle vipere, gli nasce una paura delle vipere, symbolizza gli eventi traumatici
+- Tutto un tratto, la collina diventa un luogo pericoloso
+- Sotto gli ucellli, i grilli, e le cicade si sentiva della musica
+  - Presenza fauna tipica del Sud
+  - Michele vuole sapere da dove viene la musica
+  - Incontra Felice Natale che canta e balla, fa le due voci, maschile e femminile
+    - Ascolta "Parole Parole"
+- I bambini giocano a un due tre stella, il teschio si arrabbia e parte
+- Il padre cerca a trovare se Michele capisce qualcosa di quello che succede. Michele pero non compromette niente.
+  - Abbraccio Michele / padre. Michele fa uscire due lacrime, il padre gli dice di nascondere quelle lacrime che seno fa la figura della femmina
+- Michele chiede al padre "sai cosa sono gli orsetti lavatori"
+  - Padre risponde di no, che non esistono
+- Felice
+- P118-83 CF fessachiotto
+  - Felice chiama Michele "fessacchiotto"
+    - Il signore dei vermi è Felice Natale
+- Dopo aver sentito l'appello della madre di Filippo, Michele decide di andare a portargli il messagio, perche:
+  - Si sente in colpa perche è stato suo padre
+  - Michele vuole rassucurare Filippo che i suoi genitor gli vogliono ancora bene
+  - È deluso che suo padre a rapito Filippo
+- Filippo pensa che è morta tutta sua famiglia
+  - È traumatizzato => ci'a il sindrome di Cotard (pensa essere morto)
+  - Per lui è l'unica speghazione razionale perche nessuno sia venuto a salvarlo.
+    - Nessuno è venuto perche sono tutti morti
+  - Quando Michele spiegha che è stato suo padre, gli dice "Tu non sai niente, non sei l'angelo custode, vai via, vai via"
+  - Vuole dare un calcio e fare partire michele
+  - Poi dice "aspetta, rimai, rimai" quando arriva Felice
+  - Filippo dice essere cieco
+  - Michele gli pulisce la faccia e gli occhi, cosi il bambino puo vedera qualcosa
+  - Uguaglianza tra Michele e Filippo
+  - Michele promette di ritornare domani.
+  - Filippo fa tante domande, e Michele non sa rispondere, è solo un bambino e non riesce a capire la crudeltà degli adulti.
+  - Oggetti simboloci:
+    - Bevono dalla stessa bottiglia
+    - Michele gli toglie la coperta, lo scopre, lo espone al mondo
+    - Michele gli lava gli occhi, lo fa tornare nella realtà
+- Michele deve dormire nella sua stanza con Sergio
+  - Michele ci raconta una tecnica per dormire e non avere paura dei mostri.
+    - Nella lista dei mostri include gli zingari :skull:
+    - A un tratto, arriva un pullman (nella sua immaginazione), che fa salire tutti i mostri, i mostri sono felici di andare sul pullman. Adesso deve intrappolare i mostri. Immagina che gli si apre la pancia e i mostri nel bus entrano nella sua pancia.
+  - Pero arriva Sergio e gli rompe l'immaginazione, e i mostri scappano.
+  - Sergio dice che i suoi figli non lo amano e uno è sposato ma dopo ha avuto un incidente e è morto, e l'altro non vuole vederlo. Sergio sospetta che sia la moglie che lo abbia spinto da un burrone
+  ![scottecs - fumetto di Sio](https://www.ruicardo.com/wp-content/uploads/2019/03/1294381_10153826489325700_6350269928614769222_o.jpg)
+
+- | Michele | Filippo |
+  |---|---|
+  | 9 anni | 9 anni |
+  | Fa la 4a | Fa la 4a|
+  | Sud | Nord |
+  | 20 Novembre | 12 Settembre |
+  | Povero | Ricco |
+  | Capelli neri | Capelli biondi |
+  | Famiglia cattiva?| Faniglia gentile? |
+  - => Sono simili
+- 

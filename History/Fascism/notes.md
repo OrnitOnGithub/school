@@ -6,9 +6,10 @@ Trying to adapt to a specific situation, to achieve a glorified state, and where
 No value is given to the individual.
 
 ## Ideology:
+
 - It's a form of right-wing ideology
 - Celebrates the nation or the race as an **organic community**, above all other loyalities.
-- Powerfué and continuing nationalism
+- Powerful and continuing nationalism
     - "Reinstate former glory" (In Italy's case, Rome)
     - Social Darwinism pilled
     - Omnipresence of flags / national symbols
@@ -56,6 +57,19 @@ Autarchy: Create everything inside the country: everything local, self-sustained
 
 - Propaganda
 
+## Nazism
+
+Ein Volk, Ein Reich, Ein Führer!!!
+
+### Core Ideologies
+
+- Very racist (Like all of Eur)
+- Get rid of the Jewish "pollution"
+- The Nuremberg laws' Goal: "Purify" German race
+- Aryan race should have a lot of space to develop themselves (Versailles Diktat) and take over Russia and other regions
+- All power to Hitler
+- Gestapo == Secret police
+- SS == Elite troops
 
 
 
@@ -87,3 +101,38 @@ Identification of enemies
 
 Futurism was supported unlike other art which was repressed
 ```
+
+# Nazism
+
+## Image analysis on stalin, successor to lenin
+
+| Lenin | Stalin |
+|---|---|
+| Started land redistribution. | Had a totalitarian government where the people worshpped him, the leader and the state.
+|socialised the major industries | Rapid industrialisation and collectivisation|
+|| Use of power for opression|
+
+## Questions about Stalin's policies
+
+5 year plans, great terror/purge
+
+Propaganda in the factories, factories pushed to limits
+
+
+Great terror: MKVD killed lots of citizens for minor infractions, like being late to work
+
+## Document analysis on Mussolini and how he wants to create a superior man
+
+He wanted to make warrior-like men cos of social darwinism
+
+## Document analysis on hitler being racist and antisemitic
+
+Untermensch (jews/gypsies/slavs) as scapegoats
+
+## Explain ein volk, ein reich, ein fuhrer
+
+Ein folk: The aryan race
+
+Ein reich: Large empire that respects pangermanism
+
+Ein Fuhrer: Totalitarianism
