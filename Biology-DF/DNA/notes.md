@@ -12,13 +12,25 @@ DNA = deoxyribonucleic acid
   - Thymine
   - Cytosine
   - Guanine
+  - A&T bond and C&G bond
 
 ## Nitrogenous bases
 
 | Nitrogenous <br> Bases | 1 hexagon | 2 hexagons
-|---|---|---|
+|-|-|-|
 | 2 bonds | T | A |
 | 3 bonds | C | G |
+
+| | 1 | 2 |
+|-|-|-|
+| 2 | T | A |
+| 3 | C | G |
+
+## DNA Diagram
+
+<br>
+
+![image](dna-diagram.png)
 
 ## Other info
 
@@ -92,7 +104,6 @@ DNA ligase joins Okazaki fragments together
   Primase____|    |________ DNA pol III
 ```
 
-
 ## Meselson and Stahl experiment
 
 Monochromosomic bacteria are put in two (conical) flask. One contains N15 (density 1.8), the other N14 (density 1.65).
@@ -121,4 +132,4 @@ Monochromosomic bacteria are put in two (conical) flask. One contains N15 (densi
 1. The **conservative** model would only have some DNA on 1.8 and other on 1.65.
 2. The **dispersive** model would have all DNA at 1.69 ( roughly)
 3. Only the **semi-conservative** model would provide the results observed. Because semi-conservative creates 2 that are entirely copied (so 1.65 density) and two that are half-copied, half-original (so avg(1.65, 1.80) = 1.72 density), explaining the two deposits at 1.65 and 1.72.
-
+ 
