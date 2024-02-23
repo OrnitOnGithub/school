@@ -1,14 +1,11 @@
-## Static
+# Static
+
 - imbalance of charges
 - transfer of electrons
 - idk bro
 
-### Van der Graaf thingy
-- electrons enter her body
-- enter her hair
-- hairs repel eachother
 
-```
+```raw
 E = Fe / q
 
 F = k(q * Q) / r^2
@@ -25,3 +22,17 @@ Q = charge élémentaire
 
 Fe = EQ
 ```
+
+Coulomb's Law:
+
+$F = \frac{k * q1 * q2}{r²}$
+
+Electric Field Strength:
+
+$E = \frac{Fe}{Q}$
+
+$F = Eq$
+
+Combine both:
+
+$E = k\frac{q}{r²}$
