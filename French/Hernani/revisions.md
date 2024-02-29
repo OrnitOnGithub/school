@@ -10,6 +10,7 @@ NOTE: pas d'accents car j'ai utilise un clavier americain, sorry
     - [Scene 2](#scene-2-1)
     - [Scene 4](#scene-4)
     - [Scene 5](#scene-5)
+    - [Scene 6](#scene-6)
   - [Acte IV](#acte-iv)
     - [Scene 1](#scene-1-1)
     - [Scene 2](#scene-2-2)
@@ -20,7 +21,7 @@ NOTE: pas d'accents car j'ai utilise un clavier americain, sorry
     - [Scene 1](#scene-1-2)
     - [Scene 3](#scene-3-2)
     - [Scene 4 et 5](#scene-4-et-5)
-    - [Scene 6](#scene-6)
+    - [Scene 6](#scene-6-1)
 - [Autres informations](#autres-informations)
   - [Le héros romantique](#le-héros-romantique)
   - [La vraisemblance dans Hernani](#la-vraisemblance-dans-hernani)
@@ -54,6 +55,8 @@ NOTE: pas d'accents car j'ai utilise un clavier americain, sorry
 
 ## Acte II
 
+L'acte 2 est situe dans un patio. On est en espagne. "Couleur locale"
+
 ### Scene 3
 
 - Violence et conflit entre personnages
@@ -86,7 +89,9 @@ NOTE: pas d'accents car j'ai utilise un clavier americain, sorry
 - Sublime Don Ruy Gomez
   - Don Ruy Gomez est en colère car Hernani profite de son hospitalité avec Doña Sol
   - Quand Don Carlos vient, Don Ruy Gomez chache Hernani dans le mur. (sublime car protection de l'invité)
-  - Don Carlos, vient et voit le chateau en état de surveillance. Il demande à Don Ruy Gomez ce qui se passe, et il l'avoue (sublime à nouveau). Don Ruy Gomez refuse de livrer Hernani (encode du sublime)
+### Scene 6
+
+- Don Carlos, vient et voit le chateau en état de surveillance. Il demande à Don Ruy Gomez ce qui se passe, et il l'avoue (sublime à nouveau). Don Ruy Gomez refuse de livrer Hernani (encode du sublime)
 
 ## Acte IV
 
