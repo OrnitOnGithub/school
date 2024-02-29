@@ -319,4 +319,3 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
     - Salvatore dice che si, gli fa vedere l'enciclopedia (caro)
   - Salvatore mette vie il gioco di Subbuteo
   - Gli da la scattola, e caccia Michele, dicendo che non gli piace il suo segreto.
-- 
