@@ -1,0 +1,2 @@
+- A majority of migrations occur at a local scale - Over relatively short distances
+- Migration occurs in stages.

@@ -130,6 +130,7 @@ NOTE: pas d'accents car j'ai utilise un clavier americain, sorry
 ### Scene 3
 
 - On entend sonner du **cor**
+  - Fatalité
 - Hernani demande a Dona Sol d'aller chercher une fiole dans leur chambre
 
 ### Scene 4 et 5

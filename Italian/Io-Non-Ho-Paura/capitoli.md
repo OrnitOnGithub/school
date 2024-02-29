@@ -6,6 +6,7 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
 - [Capitolo 3](#capitolo-3)
 - [Capitolo 4](#capitolo-4)
 - [Capitolo 5](#capitolo-5)
+- [Capitolo 6](#capitolo-6)
 
 
 # Capitolo 1
@@ -281,4 +282,41 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
   | Capelli neri | Capelli biondi |
   | Famiglia cattiva?| Faniglia gentile? |
   - => Sono simili
+
+
+# Capitolo 6
+
+- Michele si sveglia dopo aver dormito nella stessa stanza con sergio.
+- Si mette a cercare nella valigia di Sergio
+  - trova un cuaderno di scuola di filippo
+    - In questo quaderno, trova un temino, dove Filippo scrive quello che a fatto una domenica, scopriamo:
+      - Il suo padre lavora nelli stati uniti
+      - Famiglia molto riccha
+        - Filippo riceve molti regali
+        - Andra a visitare l'america col padre
+        - Fa viaggi in montagna
+        - Vanno al ristorante insieme
+        - Anno un gardiniere
+        - => Segni di ricchezza
+      - Si mette a yappare a proposito degli escimesi
+        - Il bambino ci'a conoscienze e cultura
+    - Leggiamo un libro nel quale michele legge una tesina (inception)
+      - Permette di avere info. su vita di Filippo
+      - Abbiamo un altro esempio di un espediente narrativo
+  - Trova una pistola
+- Michele e Salvatore giocano a subbuteo
+  - Salvatore ci'a piu cose (giochi) che Michele (ingiustizia, squilibrio)
+- Michele spiegha le differenze tra lui e salvatore
+  - Stessa età
+  - Salvatore meglio vestito, più calmo, più alto
+- Prima che arrivasse Michele, Salvatore suonava Chopin sul piano
+- Ci'a invidia Michele
+- Michele vuole una scuadra di Subbuteo, dunque propoune uno scambio di informazioni.
+  - Michele dice tutto. 
+    - Ritmo veloce <= ripetizione "di"
+  - Finalmente pou parlarne con qualc'uno
+  - Michele dice che gli orsetti lavatori non esistono
+    - Salvatore dice che si, gli fa vedere l'enciclopedia (caro)
+  - Salvatore mette vie il gioco di Subbuteo
+  - Gli da la scattola, e caccia Michele, dicendo che non gli piace il suo segreto.
 - 

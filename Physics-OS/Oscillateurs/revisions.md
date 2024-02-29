@@ -49,6 +49,19 @@ $a(t) = -A * \omega² * cos(\omega t + \phi)$
   - Avec A = amplitude, distance entre position x maximale et position x en équilibre.
   - $\phi$ = la phase
 
+## Régimes
+### pseudo-périodique
+
+$\gamma < 2m\omega$
+
+### critique
+
+$\gamma = 2m\omega$
+
+### sur-critique
+
+$\gamma > 2m\omega$
+
 ## Phase à l'origine
 
 **/!\ Pour la fonction cosinus**
