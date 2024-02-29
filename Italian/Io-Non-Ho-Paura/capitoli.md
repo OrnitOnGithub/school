@@ -87,7 +87,7 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
   - Lui fa il cammionista (dunque è molto assente)
   - La maggior parte del tempo sta sulla strada, al Nord
   - Aveva promesso a Michele di portarlo al Nord
-    - Dice che al Nord sono ricchi, e al Nord, poveri
+    - Dice che al Nord sono ricchi, e al Sud, poveri
   - Mamma diceva che un giorno avrebbero soldi grazie al suo lavoro
   - Ripetizione Nord -> differenza nord/sud 
   - è un uomo picolo, magro, di carattere nervoso. Capelli neri, mette la brillantina (gel) aveva la barba ruvida (rugueuse) e bianca sul mento.
@@ -272,16 +272,17 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
   - Sergio dice che i suoi figli non lo amano e uno è sposato ma dopo ha avuto un incidente e è morto, e l'altro non vuole vederlo. Sergio sospetta che sia la moglie che lo abbia spinto da un burrone
   ![scottecs - fumetto di Sio](https://www.ruicardo.com/wp-content/uploads/2019/03/1294381_10153826489325700_6350269928614769222_o.jpg)
 
-- | Michele | Filippo |
-  |---|---|
-  | 9 anni | 9 anni |
-  | Fa la 4a | Fa la 4a|
-  | Sud | Nord |
-  | 20 Novembre | 12 Settembre |
-  | Povero | Ricco |
-  | Capelli neri | Capelli biondi |
-  | Famiglia cattiva?| Faniglia gentile? |
-  - => Sono simili
+- Comparazione Filippo e Michele:
+  - | Michele | Filippo |
+    |---|---|
+    | 9 anni | 9 anni |
+    | Fa la 4a | Fa la 4a|
+    | Sud | Nord |
+    | 20 Novembre | 12 Settembre |
+    | Povero | Ricco |
+    | Capelli neri | Capelli biondi |
+    | Famiglia cattiva?| Faniglia gentile? |
+  - => Sono simili ma anche dissimili.
 
 
 # Capitolo 6
