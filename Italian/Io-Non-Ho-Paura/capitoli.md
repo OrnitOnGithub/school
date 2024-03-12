@@ -7,6 +7,7 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
 - [Capitolo 4](#capitolo-4)
 - [Capitolo 5](#capitolo-5)
 - [Capitolo 6](#capitolo-6)
+- [Capitolo 7](#capitolo-7)
 
 
 # Capitolo 1
@@ -320,3 +321,20 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
     - Salvatore dice che si, gli fa vedere l'enciclopedia (caro)
   - Salvatore mette vie il gioco di Subbuteo
   - Gli da la scattola, e caccia Michele, dicendo che non gli piace il suo segreto.
+
+# Capitolo 7
+
+- Michele si sceglia presto mentre il resto della famiglia dorme
+- Cerca di distrarsi leggendo un fumetto di Tex, però pensa a Filippo
+- Michele si trova in un dilemma:
+  - Ha promesso al padre di non andare da Filippo,
+  - ma ha anche promesso a Filippo fi tornare
+- Michele riceve una bicicletta rossa come regalo da suo parte, maria riceve una barbie
+  - Chiaramente, I genitori stanno ricattando
+  - Michele compara il manubrio colle corne d'un toro
+  - Michele chiede che vuole dire "red dragon" in inglese, nessuno dei genitori sa rispondere
+  - Gelosia tra fratello e soralle (Maria si mette a piangere perche lei non ha un regalo, ma lui si)
+  - Pero invece riceve una barbie, e la chiama Barbara.
+    - (Barbara vuole essere come barbie + "Barbie" è "Barbara" in inglese (non esattamente, ma vabbè))
+- Sergio mostra a Michele foto della sua casa in Brasile e della sua moglie
+  - Michele usa la parola "negra" per parlare della moglie di Sergio

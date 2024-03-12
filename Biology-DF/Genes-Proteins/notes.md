@@ -25,3 +25,19 @@ RNA Polymerase connects a U in front of an A, for example, etc
 Strand that is copied is called template. The template is called the leading strand, which is MISLEADING.
 
 Stabilising structure added to the RNA molecule (cap)
+
+
+DNA -> RNA = transcription
+
+Starting moment of gene -> promoter ("tata box")
+
+RNA gets spliced, Introns get removed -> Process called "mature pre-messenger rna into ,essenger rna"
+
+UGA UAA UAG -> Stop signals codons
+
+- Universal for all living beings, reflects common ancestry
+- Based on triplet codons
+- Redundancy, mutliple codons for amino acids
+- For each codon, only 1 AA
+
+The RNA strand can bond to itself. It can create hydrogen bonds with itself.
