@@ -1,4 +1,4 @@
-Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe italien est nul
+Attention: J'ai tout écrit ici sans correcteur donc mon orthographe est nul
 
 - [Capitolo 1](#capitolo-1)
   - [CHIAVI DI LETTURA](#chiavi-di-lettura)
@@ -8,6 +8,9 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
 - [Capitolo 5](#capitolo-5)
 - [Capitolo 6](#capitolo-6)
 - [Capitolo 7](#capitolo-7)
+- [Capitolo 8](#capitolo-8)
+- [Capitolo 9](#capitolo-9)
+- [Capitolo 10](#capitolo-10)
 
 
 # Capitolo 1
@@ -217,11 +220,11 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
   - Minacciano di tagliare le orecchie del bambino
 
 # Capitolo 5
-- Michele trova Sergio in bagno
-  - Si arrabbia colla mamma che non vuole dormire con Sergio.
+- Michele troSergio in bagno
+  - Si arrabbia colla mamma che non vuole dormire cSergio.
   - Dice che vuole dormire nel letto dei genitori come Maria
     - La madre dice "perche non mi obbidisci, perche porti problemi...". Si innervosisce perché Michele non ubbidisce.
-  - Michele pensa che Sergio lo portarlo via, lasciando intuire qualcosa a sua madre...
+  - Michele pensa cSergio lo portarlo via, lasciando intuire qualcosa a sua madre...
 - Michele va al suo albero (safe space)
 - Trova Barbara che cuole fare il bagno al cane che c'ia le zecche
   - Michele pensava che lei volesse uccidere il cane
@@ -265,12 +268,12 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
     - Bevono dalla stessa bottiglia
     - Michele gli toglie la coperta, lo scopre, lo espone al mondo
     - Michele gli lava gli occhi, lo fa tornare nella realtà
-- Michele deve dormire nella sua stanza con Sergio
+- Michele deve dormire nella sua stanza cSergio
   - Michele ci raconta una tecnica per dormire e non avere paura dei mostri.
     - Nella lista dei mostri include gli zingari :skull:
     - A un tratto, arriva un pullman (nella sua immaginazione), che fa salire tutti i mostri, i mostri sono felici di andare sul pullman. Adesso deve intrappolare i mostri. Immagina che gli si apre la pancia e i mostri nel bus entrano nella sua pancia.
-  - Pero arriva Sergio e gli rompe l'immaginazione, e i mostri scappano.
-  - Sergio dice che i suoi figli non lo amano e uno è sposato ma dopo ha avuto un incidente e è morto, e l'altro non vuole vederlo. Sergio sospetta che sia la moglie che lo abbia spinto da un burrone
+  - Pero arriSergio e gli rompe l'immaginazione, e i mostri scappano.
+Sergio dice che i suoi figli non lo amano e uno è sposato ma dopo ha avuto un incidente e è morto, e l'altro non vuole vederlSergio sospetta che sia la moglie che lo abbia spinto da un burrone
   ![scottecs - fumetto di Sio](https://www.ruicardo.com/wp-content/uploads/2019/03/1294381_10153826489325700_6350269928614769222_o.jpg)
 
 - Comparazione Filippo e Michele:
@@ -289,7 +292,7 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
 # Capitolo 6
 
 - Michele si sveglia dopo aver dormito nella stessa stanza con sergio.
-- Si mette a cercare nella valigia di Sergio
+- Si mette a cercare nella valigia Sergio
   - trova un cuaderno di scuola di filippo
     - In questo quaderno, trova un temino, dove Filippo scrive quello che a fatto una domenica, scopriamo:
       - Il suo padre lavora nelli stati uniti
@@ -335,6 +338,72 @@ Attention: J'ai tout écrit ici sans correcteur autmoatique donc mon orthographe
   - Michele chiede che vuole dire "red dragon" in inglese, nessuno dei genitori sa rispondere
   - Gelosia tra fratello e soralle (Maria si mette a piangere perche lei non ha un regalo, ma lui si)
   - Pero invece riceve una barbie, e la chiama Barbara.
-    - (Barbara vuole essere come barbie + "Barbie" è "Barbara" in inglese (non esattamente, ma vabbè))
-- Sergio mostra a Michele foto della sua casa in Brasile e della sua moglie
-  - Michele usa la parola "negra" per parlare della moglie di Sergio
+    - (Barbara vuole essere come barbie + "Barbie" è "Barbara" in inglese (non esattamente, ma vabbè))Sergio mostra a Michele foto della sua casa in Brasile e della sua moglie
+  - Michele usa la parola "negra" per parlare della moglie Sergio
+
+# Capitolo 8
+
+- Acqua traverse è vuota
+- Gli bambini vogliono giocare, giocano a nascondino
+- Michele dice agli altri che lui andrà a vivere al Nord.
+
+# Capitolo 9
+
+- Un capitolo di transizione che prepara alla fine della storia
+- Michele e Salvatore fanno pace
+- I bamini ritornano alla casa abandonata
+  - Il buco è vuoto
+  - Michele è veramente disperato
+- Salvatore rivela Filippo si trova [jsp]
+- Arrivano gli elicotteri della polizia, per quello che gli adulti si sono nascosti
+- Michele è gentile colla sorella
+- Differenza mondo bambini vs. adulti, i bambini fuori, adulti dentro
+- Pioveva (pathetic fallacy)
+
+# Capitolo 10
+
+- Gli adulti urlano e svegliano Maria e Michele
+  - Secondo michele gli adulti hanno paura (paragone cogli ramari che urlano quando hanno paura)
+- La mamma porta pane e formaggio ai bambini e inizia a piangere
+- Michele chiede se Filippo è morto
+- La mamma si arrabbia: ripetizione "nessuno è morto"
+- Momento affettuoso dove tutti e tre piangono
+- La mamma resta con i bambini finché si addormentano
+- I bambini fingono di dormire
+- Finalente la mamma si alza e chiude la porta
+- Michele è curioso e cerca di scoprire cosa stà succedento
+- Gli adulti devono decidere chi uccide Filippo, Felice non ha voglia di farlo anche se doveva farlo lui.
+- Felice e Sergio litigano
+  - Sergio lo insulta e li dice che è innutile
+  - Sergio da a Felice del "frocio" (gli da del omosessuale)
+    - MACROTEMA dell uomo nella società
+- La madre è trista e persa
+- Felice colpisce Sergio
+- Vecchio cade a terra e dalla bocca gli colava sangue e saliva (molto ferito)
+- Il padre trattiene Felice
+- La madre piange, ha paura "come se avesse visto il diavolo"
+- Sergio continua i suoi insulti e provoca felice "se sei un uomo dimostralo"
+- Fanno il gioco cogli fiammiferi (per scegliere a case)
+- Si sveglia maria ma torna a letto (credo)
+- Scena molto complicata, molto violente, molto tensa
+- [...]
+- Michele va dalla "farm" di Melichetti, dove è Filippo, e sta per essere ucciso
+  - Paranoia, paura, terrore
+  - Si rende conto che i mostri sono nella sua testa, però non i maiali.
+  - Ll primo capitolo, i maiali mangiano un cane (allegedly)
+- Cade e si fa male al ginochio, cade su un rospo, crede che sia una medusa
+- Si avvicina sempre di più ai maiali. Non si era portato neanche una torcia
+- Deve trovare Filippo
+- Descrizione gravina, c'è andato col padre
+- Passa per I campi, per non avvicinarsi alla casa
+- Riesce a passare nascosto perche è una notte senza luna: La notte diventa un' alleata, non più una nemica
+- Non vede assolutamente niente, non vede cosa c'è in fondo della gravina.
+- Se vuole scendere, è obbligato passara dalla casa, dove c'erano anche i maiali. I maiali anno il miglior odorato del mondo
+- Pensa cosa avrebbe fatto Tiger Jack, pensa al suo eroe
+  - Avrebbe cercato di togliersi l'odore umano di dosso.
+  - Deve spalmarsi di merda, per togliere il suo odore.
+- Per un instante, i grilli si zittino
+- Michele si era scordato del cane.
+- Nessuno lo vede pero. Riesce a passare accanto al cane.
+- I maiali littigano
+- E testa a testa col maiale, lo fissa per un istante infinito, il maiale regisce, lui ha paura, salta in piedi, corre e scivola (polisindeto = ripetizione "e")

@@ -79,7 +79,7 @@ INACCURATE / SIMPLIFIED MODEL:
 
 Two helicase enzymes work on the two antiparallel strands and work in opposite directions. These entymes open the strands from the origin of replication,
 
-As the DNa is being untwisted by the helicases, the topoisomerase corrects any "overwinding" ahead of the replication forks by breaking, swiveling and rejoining DNA strands.
+As the DNA is being untwisted by the helicases, the topoisomerase corrects any "overwinding" ahead of the replication forks by breaking, swiveling and rejoining DNA strands.
 
 Primase synthesises an RNA primer at 5' end of the leading strand and of each Okazaki frahment of the lagging strand.
 
@@ -87,7 +87,16 @@ DNA polymerase III Synthesises an new DNA strand by covalently adding nucleotide
 
 DNA polymerase I removes RNA nucleotides of primer from 5'end and replaces them with DNA nucleotides
 
-DNA ligase joins Okazaki fragments together
+DNA ligase joins Okazaki fragments together by making phosphodiesther bonds
+
+In short:
+
+- <u>**Helicase**</u> separates
+- <u>**Topoisomerase**</u> corrects
+- <u>**Primase**</u> synthesises RNA primer at 5' end for each Okazaki segment of lagging strand
+- <u>**Polymerase III**</u> Synthesises new DNA strand by covalently adding to 3' end of existing DNA strand or RNA primer.
+- <u>**Polymerase I**</u> removes RNA nucleotides of primer and replaces with DNA
+- DNA <u>**ligase**</u> joins Okazaki fragments together
 
 ```
         DNA pol III
@@ -106,21 +115,21 @@ DNA ligase joins Okazaki fragments together
 
 ## Meselson and Stahl experiment
 
-Monochromosomic bacteria are put in two (conical) flask. One contains N15 (density 1.8), the other N14 (density 1.65).
+Monochromosomic bacteria are put in two (conical) flasks. One contains N15 (density 1.8), the other N14 (density 1.65).
 
 ```
-           1     2     3     4
+           1     2     3     4  
          |   | |   | |   | |   |
 1.65 - - |   | |:::| |   | |...|
-         |   | |   | |   | |   | 
+         |   | |   | |   | |   |
 1.72 - - |   | |   | |:::| |...|
          |   | |   | |   | |   |
 1.80 - - |:::| |   | |   | |   |
          |   | |   | |   | |   |
-         '___' '___' '___' '___'
+         '___' '___' '___' '___' 
 ```
 
-| Tube | Description
+| Tube | Description |
 |---|---|
 | 1 | DNA cultivated on N$\ ^{15}$ |
 | 2 | DNA cultivated on N$\ ^{14}$ |
@@ -132,4 +141,3 @@ Monochromosomic bacteria are put in two (conical) flask. One contains N15 (densi
 1. The **conservative** model would only have some DNA on 1.8 and other on 1.65.
 2. The **dispersive** model would have all DNA at 1.69 ( roughly)
 3. Only the **semi-conservative** model would provide the results observed. Because semi-conservative creates 2 that are entirely copied (so 1.65 density) and two that are half-copied, half-original (so avg(1.65, 1.80) = 1.72 density), explaining the two deposits at 1.65 and 1.72.
- 
