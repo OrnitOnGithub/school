@@ -1,3 +1,17 @@
+# Notes et revisions sur Madame Bovary
+
+
+
+
+
+
+
+
+
+
+
+## Notes au hasard en vrac
+
 Episode du pied-bot p274-5 -> Description très medicale, volonté d'écriture scientifique
 
 - Vocabulaire medical
