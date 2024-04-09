@@ -220,7 +220,7 @@ Attention: J'ai tout écrit ici sans correcteur donc mon orthographe est nul
   - Minacciano di tagliare le orecchie del bambino
 
 # Capitolo 5
-- Michele troSergio in bagno
+- Michele trova Sergio in bagno
   - Si arrabbia colla mamma che non vuole dormire cSergio.
   - Dice che vuole dormire nel letto dei genitori come Maria
     - La madre dice "perche non mi obbidisci, perche porti problemi...". Si innervosisce perché Michele non ubbidisce.
@@ -407,3 +407,31 @@ Sergio dice che i suoi figli non lo amano e uno è sposato ma dopo ha avuto un i
 - Nessuno lo vede pero. Riesce a passare accanto al cane.
 - I maiali littigano
 - E testa a testa col maiale, lo fissa per un istante infinito, il maiale regisce, lui ha paura, salta in piedi, corre e scivola (polisindeto = ripetizione "e")
+- Una civetta (hibou) gli passa sopra, non capisce il comportamento delal civetta (Perche lo attacca???)
+- Luciole, grilli che cantano
+- Capisce che il nido della civetta era stato chiuso, forse ci'hanno messo Filippo!
+- Segue la civetta, entre nel buco dove entra la civetta
+- Fa freddissimo
+- Chiede "filippo ci sei?"
+- Sente un gemito di filippo
+- Miche "sente un peso che gli scioglie nel petto", relief, soulagé
+- E cosi nel buio che pensava essere nel petrolio, fa freddo contrariamente a fuori
+- Filippo è come una gallina morta, "Alzati! Alzati!"
+  - Presenza forte di animalo che aiutano la storia
+- Stanno lottando per provare di uscire, ma filippo non c'e la fa, è stanco da morire
+- Suddenly, sentono voci arrivare, sente il cane abbaiare, bisogna di nuovo agire
+- Si svegliano, devono uscire. dal. buco.
+- Vede un riflesso di luce che arriva
+- Michele spinge Filippo fuori dal buco
+- Filippo dice a Michele di venire, ma a Michele gira la testa. Michele dice a Filippo "scappa, parti", Filippo non vuole, urlano, implorano, scena forte
+- Dice se non vuoi scappare al meno nasconditi
+- "Non ce la faccio ..." "No, tu non hai paura. Non hai paura. [...] Nasconditi"
+- Vede papa arrivare
+- "papa, sono io, sono Michele"
+- Pausa, michele blackout (vede bianco)
+- Il padre a sparato a Michele
+- Michele vede che c'è une elicottero.
+- Il padre lo tiene in mano
+- Viene la polizia
+- Michele vomita
+- "Le mani rosse."

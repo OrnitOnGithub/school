@@ -41,3 +41,28 @@ UGA UAA UAG -> Stop signals codons
 - For each codon, only 1 AA
 
 The RNA strand can bond to itself. It can create hydrogen bonds with itself.
+
+## Exercise: Bacteria resistance to antibiotics
+
+Check the sheet of paper
+
+highest Use of antibiotics -> highest Rate of antibiotic resistance
+
+I know that antibiotics will exert a selection
+
+I deduce that ww
+
+THere is a mutation in the form of a substitution in the genes sensitive and resistant
+
+An enzyme is a protein, by changing the gene you change the shape of a protein and therefore change its function
+
+I observe on document 2b that the bacterium which is sensitive to the antibiotic has a bacterical enzyme with an active site that can be occupied by the antibiotic whereas the bacterium which is resistant, the antibiotic cannnot bindf to the active site of the bacterial enzyme, the shape does not fit, thus preventing the antibiotic from having an effect.
+
+I know that punctual mutation in gene can have reprecussions on a protein because of gthe DNA of the gene will be transcribed in to RNA and then the mRNA will be translated into a protin
+
+I deduce that the punctual mutation in the DNA on nucleotide 23 in the sequence of the gene of the baceria modifies the protein that is synthesized from it. (different amino acid)
+
+A different protein has a different shape, and that hinders the antiviotic from blocking the active site of the PLP entyèe: the amtibiotic loses its inhibitory functio
+
+Serendipity: An aptitude for making desirable discoveries by accident
+
