@@ -1,9 +1,8 @@
 # TODO
 
-- Test geo - ignore
-- Test math av - study with dad
-- Test bio - cry and sob
-- Test physique os - cry and sob
+- DST ENG - read ALL revision sheets
+- History finish presentation
+- Do philo HW (its useful)
 
-- Presentation italiano - work on pres
-
+- OSPHYS
+- DST MATH

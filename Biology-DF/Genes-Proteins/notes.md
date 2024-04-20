@@ -17,21 +17,21 @@ It is imperative the sequence is read correctly, (hence STOP thingies), because 
 To copy RNA:
 - Helicase unzips
 - Topoisomerase stabilises protein
+- RNA Polymerase does its thing
 
 Not everything is copied, only one gene
 
 RNA Polymerase connects a U in front of an A, for example, etc
 
-Strand that is copied is called template. The template is called the leading strand, which is MISLEADING.
+Strand that is copied is called template. The actual template is called the leading strand, which is MISLEADING.
 
 Stabilising structure added to the RNA molecule (cap)
 
-
 DNA -> RNA = transcription
 
-Starting moment of gene -> promoter ("tata box")
+Starting moment of gene -> promoter ("tata box") (what?)
 
-RNA gets spliced, Introns get removed -> Process called "mature pre-messenger rna into ,essenger rna"
+RNA gets spliced, Introns get removed -> Process called "mature pre-messenger rna into messenger rna"
 
 UGA UAA UAG -> Stop signals codons
 

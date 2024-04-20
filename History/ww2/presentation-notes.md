@@ -28,3 +28,8 @@
 - Millions of deaths (use of significant aerial weapons (planes, bombs))
 
 
+# The great depression
+
+- Wall street crash starts the crisis in 1929
+- 1930-1933 crisis spreads in Europe
+- 1939: end of great depression
