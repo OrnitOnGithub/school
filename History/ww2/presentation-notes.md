@@ -32,4 +32,12 @@
 
 - Wall street crash starts the crisis in 1929
 - 1930-1933 crisis spreads in Europe
-- 1939: end of great depression
+- 1939: end of great depression$
+
+# fake notes
+
+- i love pretending to atke notes
+- man pretending to take notes is awesome
+- these notes are entirely fictitious
+- so basically all of this is fake
+- 
