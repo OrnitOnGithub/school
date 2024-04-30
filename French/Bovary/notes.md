@@ -38,9 +38,9 @@ Analogies entre les personnages et les couleurs : Charles est généralement ass
 
 ### Une narration qui comporte des conventions romanesques
 
-Présence de «scènes à faire» : scène de rencontre ; la noce ; le bal ; la rencontre fortuite d’Emma et de Léon à l’opéra pendant une représentation de Lucia di Lammermoor -> but de faire progresser l’action.  
+Présence de «scènes à faire» : scène de rencontre ; la noce ; le bal ; la rencontre fortuite d’Emma et de Léon à l’opéra pendant une représentation de Lucia di Lammermoor -> but de faire progresser l’action.
 
-ssages relevant du sublime, et en particulier la mort d’Emma : lenteur + intensité de l’agonie ; caractère effroyable de la mort (éléments fantastiques ; évocation d’Emma par métonymies, donnant l’impression que son corps est disloqué). A noter que cette mort lente fait écho à celle du roi de France Charles IX, relatée par Alexandre Dumas dans La Reine Margot, publié une dizaine d’années avant MB.  
+ssages relevant du sublime, et en particulier la mort d’Emma : lenteur + intensité de l’agonie ; caractère effroyable de la mort (éléments fantastiques ; évocation d’Emma par métonymies, donnant l’impression que son corps est disloqué). A noter que cette mort lente fait écho à celle du roi de France Charles IX, relatée par Alexandre Dumas dans La Reine Margot, publié une dizaine d’années avant MB.
 
 ## Notes au hasard en vrac
 
