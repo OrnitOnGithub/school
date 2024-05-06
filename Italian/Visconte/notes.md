@@ -57,3 +57,12 @@
 - Descrizzione dottore e sue occupazioni
 - Racconta ache la crudelta del visconte.
 - Introduzione lebbrosi (malati)
+
+# Capitolo 6
+
+- Il nipote incontra lo zio il giorno dopo
+- Comportamento del visconte contradittorio: buono e cattivo
+- Pamela si rende conto che ha incontrato l'altra metà
+
+# Capitolo 7
+
