@@ -51,6 +51,6 @@
 
 - But:
   - Construire sur terre ferme
-  - Utiliser des préfabriqués, cars ils sont pas chers, denses et modestes en tant que confort.
+  - Utiliser des préfabriqués pour ocnstruire des batiments de hauteur moyenne, cars ils sont pas chers, ils sont denses et modestes en tant que confort.
 - Problème:
   - Faut de l'argent, que le gouvernement apparament n'as pas.
