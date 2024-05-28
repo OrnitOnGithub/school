@@ -1,0 +1,4 @@
+- Characters are transmittable
+- Struggle for survival
+- Some have tiny advantage
+- Elimination of non-fit individuals, and not selection of fit ones

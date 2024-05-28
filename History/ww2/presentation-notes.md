@@ -40,4 +40,6 @@
 - man pretending to take notes is awesome
 - these notes are entirely fictitious
 - so basically all of this is fake
-- 
+
+
+US allows themselves to bomb cities to destroy industrial and human potential. Militarily it's rational but you do kill women and children.

@@ -16,11 +16,12 @@ $$\Delta t = \frac{\Delta t'}{\sqrt(1-\frac{v^2}{c^2})}$$
 
 SOIT
 
-$$\Delta t = \gamma \Delta t'$$
+$$\Delta t = \gamma \Delta t_0$$
 
-avec $\Delta t' =$ temps propre
+avec $\Delta t_0 =$ temps propre
 
 <br>
+prime = non propre
 <br>
 
 $$\gamma = \frac{1}{\sqrt{1-\beta^2}}$$
@@ -28,7 +29,7 @@ $$\gamma = \frac{1}{\sqrt{1-\beta^2}}$$
 $$\beta = \frac{v}{c}$$
 (vitesse en quotient de c)
 
-$$\Delta t > \Delta t '$$
+$$\Delta t_{dilaté} > \Delta t_{propre}$$
 
 $$L = \frac{L_0}{\gamma}$$
 

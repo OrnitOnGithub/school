@@ -9,9 +9,6 @@ E = k Q / r^2
 
 E = mg / q
 
-E = Fe * q
-
-
 E = mg / Q
 Q = charge élémentaire
 
