@@ -54,7 +54,6 @@ v = vitesse linéaire  (m/s)
 r = rayon             (m)
 ```
 
-
 # Accélération && force centripète
 ```
 ac = v²/r

@@ -60,7 +60,3 @@
 - Hitler promised not to continue conquests (lie)
 - Everyone "forgave" Hitler for his previous conquests
 - Shows pacifist and policy of appeasement by allied powers.
-
-
-- Authoritarian regimes apart from Russia
-- WW2

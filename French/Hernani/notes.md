@@ -1,8 +1,7 @@
-Victor Hugo
-Conserve les alexendrins
+- V.H. Conserve les alexendrins
     - Mais coupures, enjambements, etc
     - pas versification classique
-Non-respect de unités:
+- Non-respect de unités:
     - lieu
         - Acte 1: chambre
         - Acte 2: derrière la palais
@@ -11,9 +10,8 @@ Non-respect de unités:
         - deux intrigues différentes à l'intérieur de la pièce
     - temps
         - Intrigue sur plusieurs jours
-
-Mélange des genres
-- Pièce globalement sérieuse, mais certains passages comiques
+- Mélange des genres
+  - Pièce globalement sérieuse, mais certains passages comiques
     - ex: scène d'exposition (Scène 1 Acte 1)
         - comique
             - quiproquo
@@ -30,7 +28,7 @@ Mélange des genres
             - comique de **geste**
                 - Toutes les didascalies
                     - Jeu autour de l'armoire
-Scène d'exposition qui n'expose pas trop
+- Scène d'exposition qui n'expose pas trop
     - Aucune information sur Hernani
     - On ne sait pas qui est Don Carlos (qui en plus arrive déguisé)
     - Dona Sol est fiancée au vieux duc de blablablia

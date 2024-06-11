@@ -55,7 +55,7 @@ NOTE: pas d'accents car j'ai utilise un clavier americain, sorry
 
 ## Acte II
 
-L'acte 2 est situe dans un patio. On est en espagne. "Couleur locale"
+L'acte 2 est situe dans un patio. On est en espagne. Ca relève de la "Couleur locale"
 
 ### Scene 3
 

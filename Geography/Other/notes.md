@@ -1,3 +1,27 @@
+## Methode
+
+30min
+
+1. lecture docs
+2. mindmap mots-clefs
+3. Idées pbmatiq
+
+## PBMATIQ
+
+- précis (faire un choix)
+- aucune vagueté
+- 
+
+
+
+
+
+
+
+
+
+
+
 ## Problematisation
 
 - acteurs
