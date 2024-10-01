@@ -1,4 +1,4 @@
-# Exemples pour dissert MdF
+# Exemples pour dissert MdF
 
 ### Un plan de dissert:
 - L'intrigue a pour point de départ des disconvenances sociales

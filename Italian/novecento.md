@@ -1,0 +1,15 @@
+- Narratore spiegha storia di quando aveva 17 anni nel 1927.
+- Suona la tromba
+- Parla di Danny Boodman (grande pianista) che spiegha la cosa della prima persona che vede l'America.
+- Suonava 3-4 volte al giorno: ricchi classe lusso, seconda classe, e poi gli immigranti.
+  - "Suonavamo perche la gente non sentisse passare il tempo, se balli non puoi morire"
+  - Prima classe suonano *per* loro
+  - Terza classe suonavano *con* loro
+- L'attore su scena esce (momento sospeso), quando torna è vestito da jazzman
+  - L'attore deve assumere ruoli diversi per fare andare in avanti la scena
+- Ladies and gentlemen, parla alla gente sulla barca, tono molto comico
+  - Come biglia sul billiargo - paragone barca
+- Presenta l'equipaggio della nave
+- Poi presenta la band *Atlantic Jazz Band*
+  - Alla tromba Tim Tooney
+  - Alla fine Danny Boodman al piano
