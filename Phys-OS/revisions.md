@@ -86,22 +86,24 @@ Le champ éléctrique c'est l'aura (l'influence) d'une charge.
 
 $F_e = qE$
 
-$\vec E = \frac{k * q}{r^r} * \vec U$
+$\vec E = \frac{k * q}{r^2} * \vec U_r$
 
 $k = 8.99 * 10^9 N$
 
 ## Retrouver le vecteur unitaire, et le vecteur champ électrique provenant d'une ou plusieurs charges.
 
-U est un vecteur unitaire donc sa norme est 1.
+Ur est un vecteur unitaire donc sa norme est  **toujours** 1.
 On le normalise en le divisant par sa norme.
 
-$\vec U = \frac{\vec {distance}}{|\vec {distance}|}$
+$\vec U_r = \frac{\vec {distance}}{|\vec {distance}|}$
+
+$|\vec U_r| = 1$
 
 $distance = position 1 - position 2$ (wow)
 
 Exemple:
 
-$\vec U = \frac{\vec p - \vec q}{|\vec {qp}|}$
+$\vec U_r = \frac{\vec p - \vec q}{|\vec {qp}|}$
 
 ## Connaitre et utiliser la relation entre champ électrique et force
 
