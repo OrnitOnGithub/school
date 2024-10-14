@@ -13,3 +13,12 @@
 - Poi presenta la band *Atlantic Jazz Band*
   - Alla tromba Tim Tooney
   - Alla fine Danny Boodman al piano
+- yap yap yap
+- Duello con Jolly Roll Morton
+  - Morton si nomina se stesso "l'inventore dell' Jazz". Suonava nei bordelli e adesso suona da per tutto. Sente parlare di Novecento.
+  - Importanza della sigaretta, metafora personificata (non vuoleva cadere, cazzo)
+  - Dopo aver suonato la prima e seconda volta non si inchina nemmeno.
+  - Novecento prima suona canzone di merda e poi ripete quello che suona Morton. Novecento si fa hate-are.
+  - Jelly Roll Morton perde pazienza. Si innervosicse. Poi Morton suona di nouvo. Di nuovo eloggie della sua canzone con la metafora dell' acrobata. Morton a mostrato tutto.
+  - Novecento pianomogga. "L'ai vuoluto tu. Pianista di merda"
+  - 
