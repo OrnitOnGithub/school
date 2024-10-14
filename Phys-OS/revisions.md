@@ -50,6 +50,11 @@ $E_{cr} = \frac{1}{2} I \omega^2$
 
 $E_{cr} = \frac{1}{2} I \omega^2$
 
+Comme **on ne glisse pas**, on peut affirmer que:
+
+$v = \omega r$
+
+
 ## Utiliser la conservation d’énergie et l’énergie cinétique de rotation afin de résoudre un problème de rotation ou de roulement sans glissement
 
 L'énergie cinétique de rotation et l'énergie cinétique de translation sont toutes les deux des énergies cinétiques.
@@ -58,27 +63,41 @@ On peut donc avoir par exemple $E_{pp_i} = E_{cin_f} + E_{cr_f}$
 
 ## Calculer le moment d’une force de manière vectorielle
 
-$\vec M = \vec r \times \vec v$
+$\vec M = \vec r \wedge \vec v$
 
 $M = r * v * sin(\theta)$
 
 ## Calculer le moment d'inertie d'un objet simple
 
-$\vec L = r \times p = m(\vec r \times \vec v)$
+Si il s'agit d'un sys. de masses ponctuelles:
 
-$L = mrv * sin(\theta)$
+$I = \sum m_i r_i^2$
+
+Mais si l'objet n'est pas une ou des masses ponctuelles, il faut utiliser les I dans la CRM (page ???). Sinon si le centre de masse passe pas par l'axe de rotation:
+
+$I = I_{cm} + m h^2$ avec h la distance entre centre de masse et axe de rotation.
 
 ## Calculer le moment cinétique d’un objet en rotation
 
 $\vec L = I \vec \omega$ dans les cas où l'axe de rotation est aussi l'axe de symmétrie.
 
+$\vec L = r \wedge p = m(\vec r \wedge \vec v)$
+
+$L = mrv * sin(\theta) = I \omega$
+
 ## Appliquer la deuxième loi de Newton à la rotation autour d’un axe fixe
 
-a
+Si il ya équilibre, donc somme des forces = 0, ca s'applique aussi pour le Moment de force:
+
+$\sum \vec F = m \vec a$
+
+$\sum \vec M = \vec r \wedge \vec F = I \vec \alpha$
 
 ## Appliquer le principe de conservation du moment cinétique
 
-a
+Le moment cinétique est comme la quantité de mouvement, mais pour les objets qui tournent.
+
+$L_i = L_f = I \omega$
 
 ## Comprendre et utiliser la notion de champ électrique
 
