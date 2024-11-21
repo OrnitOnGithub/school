@@ -1,0 +1,5 @@
+- definit (an)
+  - si
+  - sinon
+- construction (an) croissante, (bn) decroissante
+- an < b0 et bn > a0

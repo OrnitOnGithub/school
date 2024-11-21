@@ -154,3 +154,44 @@ Les arabes vendent leur terre aux juifs.
 hagana: groupe paramilitaire (ancetre de l'armee israelienne).
 
 1947 l'ONU auquel a étée rendue la terre par l'angleterre fait une division un peu farfadesque.
+
+## Questions crise Cuba
+
+Questions
+1. Le positionnement de missiles nucléaires soviétiques.
+1. Union soviétique et EUA, M. Krouchtchev, Cuba
+1. Il faut éviter le cataclysme nucléaire sans s’humilier. Essayer de retirer les missiles du Cuba peut déclencher une guerre.
+1. Les soviétiques acceptend de retirer les missiles sous la condtion que le cuba ne soit pas envahi.
+
+# Notes Test Crises
+
+47 - Kominform doctrine Jdanov
+
+## Crise de Berlin
+
+Juin 48: Blocus -> Pont aérien pour un an -> levé mai 49: Premier echec -> Creation du Mark
+
+## Crise Corée
+
+45: Coupée par 38è parallèle -> Juin 50 Troupes coréennes franchissent la frontière -> Automne 50, casques bleus (armée principalement US sous Mac Arthur) -> Envahissent la corée du Nord en leur tour -> début 51, chine au secours. Max Arthur veut utiliser la bombe et se fait relever de son commandement par Truman -> Juillet 1953: Armistice Pan Mun Jon.
+
+## Israel
+
+novembre 47: ONU partage Palestine, pas accepte par pays arabes -> Mai 48: Creation israel: attaqué pays voisins -> Mai 49 israel occidentaux, pays arabes soutenus URSS (Union des republiques socialistes sovietiques)
+
+## Berlin 2: Electric boogaloo
+
+61: Avion espion U2 abattu -> Aout 61: Mur construit -> 63 Kennedy Declare "je suis un berlinois".
+
+## Indochine
+
+Mai 54: Défaite France Dien Bien Phu -> Armistice Juillet 54 -> Division Vietnam 17e parallèle
+
+## Vietnam
+
+L' US est en train de perdre donc rolling thunder, mais mouvement pacifiste empeche ca.
+
+Infliltration fonc on rase la piste o chi mi. Mais celle ci est toujours reconstruite, et violation de fronitere.
+
+La television frappe plus, donc l'US retire des troupes. 73 US quitte vietnam.
+

@@ -25,3 +25,15 @@
 - **Io** mangerei
 - **Tu** mangeresti
 - **Voi** mangereste
+
+## Congiuntivo presente
+
+- **Io** venda
+- **Tu** venda
+- **Voi** vendiate
+
+## Indicativo
+
+- **Io** vivo
+- **Tu** vivi
+- **Voi** vivete

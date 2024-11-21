@@ -16,6 +16,8 @@ $\alpha (t) = \alpha$
 
 ## Utiliser l'accélération centripète et la force centripète dans un problème de mécanique
 
+$a_c = r \omega ^2$
+
 Dans le cas d'un "looping", $F_c = m * \frac{v^2}{r}$
 
 Si on perd contact, $F_c =P$

@@ -20,3 +20,4 @@ Aujourd'hui le wax fait son entrée dans la haute couture occidentale
 
 Ce sont des mptifs socio-économiques qui poussent des acteurs internationaux à approprier un produit mondialisé pour répondre à la demande de sa clientele occidentale: "le wax adapté à la mode européenne"
 
+MOndialisation = ensemble de processus socio economiques, politiques et culturels qui permet la mise en relation des societes du monde.
