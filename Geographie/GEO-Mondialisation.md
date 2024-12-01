@@ -81,3 +81,10 @@ Crée à partir des notes originellement d'erdaberda.
    2. argument - exemple
 
 protectionnisme, libre-échange
+
+
+des territoires "peripheries integrees acceuillent des lieux de production, de commercialisation. Elles permettent aux FTN de se développer.
+
+Des territoires "marges"; là ou les firmes transnationales vont acheter les matieres premieres mais aussi installer des ateliers de production qui demandent peu de savoir faire et ou la main d'oeuvre est peu couteuse. Notamment afrique subsaharienne (ressources minieres) asie du sud et du sud.est (industrie textile. siderurgique)
+
+Les acteurs sont donc en train de yap parce que

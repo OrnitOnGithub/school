@@ -8,3 +8,8 @@
 ---
 - 02
 - Tuesday: History 70-89, end cold war
+
+
+- OS math
+- FR
+- Engl
