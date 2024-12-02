@@ -10,7 +10,7 @@ nouveau chancelier RFA allemand Brandt inaugure détente avec Est
 
 1970-1972 -> 4 traités qui au final reconaissent la souveraineté de chaqun.
 
-Accords d'Helsinki (reconaissance fronitere WW2, coopération economique scientifique, indipendance politique, droits de l'homme) <- manifestation spectaculaire de la détente
+Accords d'Helsinki de 1975 (reconaissance fronitere WW2, coopération economique scientifique, indipendance politique, droits de l'homme) <- manifestation spectaculaire de la détente
 
 La Chine devient une puissance nucleaire en 1964 puis conflit frontalier 1969 URSS.
 
