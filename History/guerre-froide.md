@@ -197,4 +197,4 @@ La television frappe plus, donc l'US retire des troupes. 73 US quitte vietnam.
 
 ## pieds-noirs
 
-gens en algerie francais blancs qui y restent et continuent leur vie la bas. HOstiles a l'independance.
+gens en algerie francais blancs qui y restent et continuent leur vie la bas. Hostiles a l'independance.
