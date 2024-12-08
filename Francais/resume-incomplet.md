@@ -1,3 +1,5 @@
+# Résumé
+
 ## Chapitre 1
 
 - Bernard retrouve un lettre de l'amant de sa mère: Il n'est pas le fils naturel de Profitendieu.
