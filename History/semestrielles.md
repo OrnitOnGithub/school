@@ -34,3 +34,24 @@ Face à cette menace, course aux armements avec sous marins nucléaire lance mis
 
 1964 - LA france et la chine ont la bombe A
 
+1961 - U-2 abattu au dessus du territoire soviétique. Le 14 Aout 1961, le mur de Berlin est construit. 1963, Kennedy "Je suis un berlinois"
+
+### Cuba
+
+1959 - Fidel Castro pratique politique indépendante, EUA n'aime pas.
+
+1962 - Preuve formelle de rampes de lancement de missiles à Cuba. En Octobre Kennedy pousse l'URSS à retirer leurs missiles et les EUA s'engagent à évacuer leurs missiles de Turquie et de ne pas intervenir au Cuba.
+
+1963 Un télex (lien de communication entre deux téléscripteurs) entre le Kremlin et le Pentagone. Les deux grands évitent désormais les provocations directes dans le camp adverse.
+
+## Détente
+
+Reconaissance du duopole nucléaire, mais n'entraine pas trop le désarmement.
+
+L'effort de maintenance d'equilibre est très très couteux.
+
+1963 - 1968 - 3 traités de dénucléarisation. Refusés par la france et la chine.
+
+1970-1972 - Traités qui inaugurent la détente avec les pays de l'est avec l'"ostpolitik" de Brandt.
+
+1975 - Helsinki qui reconnait frontieres.
