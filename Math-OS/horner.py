@@ -11,7 +11,7 @@ def horner(l, x):
     s = 0;
     len_l = len(l);
     for i in range(len_l):
-        s = s*x + l[len_l-i-1];
+        s *= x + l[len_l-i-1];
         # print(s);
     return s;
 
@@ -22,7 +22,7 @@ from matplotlib import pyplot as plt
 import time
 import random
 
-time_average_iterations = 10
+time_average_iterations = 1000
 
 def time_naive(l):
     result = 0
