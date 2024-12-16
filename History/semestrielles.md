@@ -55,3 +55,28 @@ L'effort de maintenance d'equilibre est très très couteux.
 1970-1972 - Traités qui inaugurent la détente avec les pays de l'est avec l'"ostpolitik" de Brandt.
 
 1975 - Helsinki qui reconnait frontieres.
+
+1964 - Chine a la bombe
+
+1969 - Conflit frontalier chine-URSS, EUA se rapproche de la chine. Fin de la bipolarité?
+
+1971 - Chine admise à l'ONU
+
+
+# Méthode de dissert
+
+### Intro
+
+1. Contexte et bornes. Situation.
+2. Problématique
+3. Annonce du plan
+
+### Développement
+
+Trois ou Deux axes avec chaqun une conclusion partielle
+
+### Conclusion
+
+1. Insistance sur chaque conclusion partielle
+2. Conclusion Générale.
+3. Ouverture.
