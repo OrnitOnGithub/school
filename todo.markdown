@@ -5,52 +5,51 @@
 | Wednesday | **OS Math** | 🟧 MID | Redo all exercises, learn demos
 | Thursday | **Maths** | 🟥 HIGH | Do lotsa exercises
 | Friday | **Geog** | 🟧 MID | Ask for revision sheets, make one, practice essay writing
-|
+| <br>
+| <br>
 | Monday | **Italian** | 🟩 LOW | Reread book presentations
 | Tuesday | **OS Physics** | 🟥 HIGH | Make revision sheets for everything, redo exercises
 | Wednesday | **History** | 🟥 HIGH | Make revision sheet, essay practice
 | Thursday | **English** | 🟩 LOW | Reread sparknotes summaries for all books, essay practice (rewrite?)
 
-
-## Week 1
+## Week 2
 
 ### Sunday
 
-- [ ] Math OS revisions
-- [ ] French revisions
+- [ ] OS Phys
+- [ ] History
+  - [ ] Revision sheets
+  - [ ] Essay practice
 
 ### Monday
 
-- [ ] Minor OS Math revisions
-- [ ] Minor Math revisions
-- [ ] Minor Philo revisions
+- [ ] OS Phys
+- [ ] History
 
 ### Tuesday
 
-- [ ] OS Math revisions
-- [ ] Math revisions
+- [ ] History
 
 ### Wednesday
 
-- [ ] Math revisions
-- [ ] Minor Geog revisions
+- [ ] English
 
-### Thursday
 
-- [ ] Geog revisions
 
-### Friday
 
-- [ ] Physics revisions
 
-## Week 2
 
-### Saturday
 
-- [ ] OS Phys
-- [ ] History
+## Schedule
 
-### Sunday
+13h -15h
 
-- [ ] OS Phys
-- [ ] History
+Physics
+
+15h-17h
+
+History
+
+17h+
+
+whatever bro idc

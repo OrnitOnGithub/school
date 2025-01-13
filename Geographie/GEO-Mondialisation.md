@@ -17,7 +17,7 @@ Acteurs de mondialisation
   - Nationaux
     - etats qui ouvrent ou ferment frontieres
     - chaines nationnales
-    - flux migratoires qui integrent org regionale (UE,ALENA,etc) ou pas (FUCKIN BRITS) 
+    - flux migratoires qui integrent org regionale (UE,ALENA,etc) ou pas (UK) 
   - Regionaux
     - UE
     - ASEAN
