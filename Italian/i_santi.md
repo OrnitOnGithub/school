@@ -27,3 +27,14 @@ I santi vivono in paradiso in deliziose casette prospicienti l'oceano che rappre
   - Chiunque può fare bene senza ricevere niente in ritorno
 - Non rappresenta Dio come un essere concreto, ma piuttosto come un' aiuto astratto per l'umanità.
 
+## Il colombe
+
+### Riassunto
+- Stenfano Roi, suo padre e un capitano di mare
+- Il colomnbe e un 'pesche mitologico
+- Il pare ddi Stefgano conoscientdo la pericolosita della creatura
+- Stafano desidera di fare come il suo paddre e vivere in mare
+- LUI TENTA DI SFUffirgli questo pesce che sequirlo
+- Alla fine della sua vita, dedcide di affrontatlo
+- La creatura riverla una preziosa perla
+
