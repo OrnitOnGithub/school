@@ -11,7 +11,7 @@ def horner(l, x):
     s = 0;
     len_l = len(l);
     for i in range(len_l):
-        s *= x + l[len_l-i-1];
+        s = s * x + l[len_l-i-1];
         # print(s);
     return s;
 

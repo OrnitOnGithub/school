@@ -31,3 +31,54 @@
     - Roman Picaresque / d'aventure = attaque des brigands, vol du cheval, différents métiers et blessure
     - Roman Sentimental parodique - viol de justine, denise, marguerite & suzanne
     - Receuil de nouvelles (mille et une nuits)
+
+- Interruption de l'histoire de Gousse séparée par une 30aine de pages
+- Désordre social, inversion maître valet, hôtesse, père Hudson (pas les characteristiques d'un moine, ne respecte pas son propre ordre monastique), viol de justine, mise en abyme de l'hôtesse
+- Défense de libertés sociales notamment parce que JLF montre le déterminisme social
+- Liberté de ton - grivoiserie
+- Digression
+  - Poète de Pondichéry est une digression
+  - Portrait du maître est une digression
+  - Gousse
+- Une volonté de pas conclure
+- Expériences
+  - Vérité et illusion
+  - Expériences littéraires - mélange des genres
+  - Metalittérarire
+  - Narrateur
+    - Laisse lecteur décider
+    - Edge le lecteur
+    - Autheur en scène
+    - Polyphonie narrative
+  - Fait sortir de la fiction
+  - p.67 on voit l'écrivain écrire en direct
+  - Diderot se moque du fatalisme de Jacques
+    - Ce n'est pas un stoicien, il veut juste se rassurer quand il se passe quelque chose de mal.
+  - Mystification littéraire
+    - Illusion romanesque et réalité
+    - 
+- Les digression aident à progresser sur question philosophique, de pouvoir, morale, littéraire... en sacrifiant l'intrigue
+## Méthode sous-partie
+
+- Phrase directrice
+- Phrase de l'argument
+- Illustration de l'exemple
+- Micro-analyse
+- Phrase bilan
+
+Une phrase pour formuler l'argument (l'idée directrice du paragraphe) -> Tout d'abord, par ailleurs...
+
+Une phrase dans laquelle on précise l'argument -> Expliquer/définir, spécifier le propos et civler un angle précis
+
+L'illustration de l'exemple -> C'est ce que l'on retrouve dans... Cette idée est illustrée dans... Cette idée est au coeur de la Scène XYZ...
+
+Micro-analyse de l'exemple
+- propos du perso
+- Comment se charactérise la réaction du perso
+- Par quels choix formels les enjeuc de la scène sont-ils mis en évidence
+- En quoi cette scène a-t-elle son importance dans l'ensemble de la pièce?
+- Codes moraux qui sont au coeur, comment les valeurs morales se superposent, les principes moraux dominants
+- L'importance du passage par rapport à l'oeuvre
+- Analyse psychologique
+
+Phrase bilan du paragraphe
