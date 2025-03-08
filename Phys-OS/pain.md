@@ -33,3 +33,9 @@ i1 + i2 = itot (dans un neud)
 V1 - V2 - V3 = 0
 
 (V1 = opérateur, v2, v3 = récepteurs)
+
+
+
+
+
+Pyramides et
