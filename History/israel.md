@@ -1,0 +1,14 @@
+- 1947 - UK gives up Mandate, UN patritions
+  - Arab countries reject
+  - Jews accept
+- 1948 - Iswrael declares independence
+  - 5 Arab armies attack
+- 1949 - War ends with Israeli victory
+- 1967 - Nasser requests withdrawal UN Troops on Israeli-Egyptian border. Israel launches an attack, captures
+  - Sinai peninsula
+  - Gaza strip
+  - Transjordanie et Cisjordanie
+  - Syrian Golan Heights
+  - ==> Palestinians lose faith and create PLO
+- 1973, Egypt and Syria invade during holiday
+  - Failed, but got Suez Canal

@@ -1,14 +1,13 @@
-- English pres 21st march
-- History
-  - guerre 6 jours, israel, kippour, israelo-arabe 47-79
-- Physics
-  - Lowkey just kys
+- English Presentation
+- History Presentation
+- Math DST
 - Art
-  - Portfolio
-    - Sketches/studies
-    - Compositions
-    - Contest submission
-      - Read La Honte
-      - 2 pages of comic
-      - 3 other illustrations
-      - Cover illustration
+  - 2 pages of comic
+  - 3 other illustrations
+  - Cover illustration
+
+| Circuit | Prix 1 | Prix 1/2 | Assurance
+|---|---|---|---|
+Circuit de Bresse | 220 | 70 | 50
+Circuit Dijon-Prenois | 340 |
+Circuit des Ecuyers | | 90
