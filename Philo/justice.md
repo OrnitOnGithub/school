@@ -10,7 +10,7 @@ Objection 1 : le problème du sacrifice possible de liberté ou droits individue
 
 comment Mill essaie d'y répondre
 
-## St Thomas d'Aquin ( aussi définition traditionelle)
+## St Thomas d'Aquin (aussi définition traditionelle)
 
 Accorder à chaqun son du
 
@@ -28,7 +28,7 @@ Méthode en 3 étapes répétées:
 2. On trouve une contradiction
 3. On change une intuition, on révise le principe initial, repeat.
 
-## Utilitarianisme
+## Principe d'utilité
 
 On approuve ou désapprouve d'une action en fonction de sa tendance à diminuer ou d'augmenter le bonnheur de ceux dont l'intérêt est en jeu.
 
@@ -36,5 +36,27 @@ On approuve ou désapprouve d'une action en fonction de sa tendance à diminuer 
 
 Il est douteux qu'on puisse violer des droits fondamentaux pour le bien commun.
 
-## Réponse de Mill
+## Valeur
 
+Ce qui fait qu'un ensemble de choses, de conduites, importent, et peuvrent importer d'avantage que d'autres choses.
+
+## Morale
+
+Manière de juger actes comme bons ou mauvais selon qu'il favorisent ou entravent les intérêts, droits ou attentes des êtres concernés.
+
+## Nozick
+
+- Etat minimal
+- L'inégalité n'est pas injuste.
+- La justice redistributive est injuste.
+
+- Imports = s'approprier de ce qui lui est du
+
+### Objections
+
+- Impot et corvées sont bien commun
+- Le logement est un droit
+
+Réponse libertarienne: Charité > imports (en gros: Je m'en balek!)
+
+## 
