@@ -1,8 +1,8 @@
-- [ ] Géo
+- [x] Géo
   - [ ] mondialisation
   - [ ] frontières
   - [ ] méthode
-- [ ] Philo
+- [x] Philo
   - [ ] Je sais plus
   - [ ] Justice
 - [ ] Histoire
