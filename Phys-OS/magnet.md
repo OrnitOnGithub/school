@@ -31,7 +31,7 @@ Flux = B * dl = u0 * somme des i_int
 
 
 
-## Déterminer le mouvement d’une particule chargée dans un champ magnétique uni- forme
+## Déterminer le mouvement d’une particule chargée dans un champ magnétique uniforme
 ## Comprendre le phénomène d’induction électromagnétique
 ## Calculer la force électromotrice (f.e.m) induite à l’aide de la loi de Lenz et la loi de Faraday
 ## Comprendre la notion d’inductance et d’auto-induction
