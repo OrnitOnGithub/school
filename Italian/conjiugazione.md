@@ -31,3 +31,18 @@
 - **Io** vivo
 - **Tu** vivi
 - **Voi** vivete
+
+Congiuntivo imperfetto
+- che io mangiassi
+
+Congiuntivo presente
+- io mangi
+
+Condizionale passato
+- io avrei mangiate
+
+Condizionale presente
+- mangerei
+
+Indicativo
+- io vivo

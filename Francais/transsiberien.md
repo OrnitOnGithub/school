@@ -17,7 +17,7 @@ Méthode:
 
 # Connu
 
-- Point: Thèmes et codes respectés
+- Thèse: Thèmes et codes respectés
 - Explication: Expliquer les formes classiques etc
 - Exemples: v.115 à 134, "Dis blaise" -> rondeau, 1er vers = alexandrin
 - Detail Ex: Explication et dire que le poète s'inscrit dans le classicisme poétique à travers son utilisation de formes classiques jsp.
@@ -25,7 +25,7 @@ Méthode:
 
 Blaise Cendrars respecte dans *La Prose Du Transsybérien* Les codes classiques. La poésie classique est caractérisée par une recherche de perfection formelle qui se manifeste par certaines structures dans la forme du poème, notamment dans la longueur des vers, des strophes, ou dans des modèles liés à la structure de ces derniers. On reconnait ces formes dans [LPDT] dès le premiers vers, "[flemme]" qui est un alexendrin, ainsi que dans les vers 134 jusqu'à 155, qui sont une suite de quatrains composés d'alexandrins et de dizains. L'utilisation de ces procédés inscrit ces parties de l'oeuvre de Cendrars dans le classicisme. L'alexendin et le dizain sont le vers les plus nobles, et la métrique régulière du classicisme se manifeste dans ce texte par la métrique régulière des quatrains. Ainsi le poète s'inscrit d'une manière dans le classicisme poétique à travers son utilisation de formes classiques.
 
-- Point: References
+- Thèse: References
 - Explication: Explication des références?
 - Exemples: Rimbaud (???), Baudelaire (v.145), Corbière, Jules Verne (v.77)
 - Detail Ex: Inclut dans son récit des éléments des récits de ces écrivains.
@@ -35,7 +35,7 @@ Blaise Cendrars fait dans la prose du transsiberien allusion aux euvres d'autres
 
 # Inconnu
 
-- Point: Livre simultané qui melange les arts.
+- Thèse: Livre simultané qui melange les arts.
 - Explication: Yap sur le mélange et le fait que la PDTS est un livre simultané car il est peint avec Sonia Delaunay
 - Exemples: v.360 peintre, v.345 Chagall
 - Detail Ex: Il parle de peinture et de si il serait peintre, etc...
@@ -43,15 +43,15 @@ Blaise Cendrars fait dans la prose du transsiberien allusion aux euvres d'autres
 
 # Introspection et construction
 
-- Point: Introspectif et voyage iniciatique
+- Thèse: Introspectif et voyage iniciatique
 
-- Point: Progrès d'un poète: entre émancipation et spleen
+- Thèse: Progrès d'un poète: entre émancipation et spleen
 
 # Mélange
 
 pareil que inconnu #1
 
-- Point: Eléments romanesques
+- Thèse: Eléments romanesques
 - Explication: 
 - Exemples: 
 - 

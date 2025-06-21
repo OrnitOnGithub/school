@@ -1,4 +1,4 @@
-1. Satire universelle
+1. Satire universelle*
     - Satire de l'oisiveté - portrait du maître p70
     - Satire du lecteur amateur de conte grivois p238
 2. Une oeuvre typique des lumières
